@@ -1,0 +1,7466 @@
+[
+  {
+    "id": "0",
+    "title": "Demonios en el jardín",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "M.Gutiérrez Aragón",
+    "homeRecorded": false
+  },
+  {
+    "id": "1",
+    "title": "Ópera prima",
+    "year": 1980,
+    "genre": "Drama",
+    "director": "Fernando Trueba",
+    "homeRecorded": false
+  },
+  {
+    "id": "2",
+    "title": "Socorro! - (Help!)",
+    "year": 1965,
+    "genre": "Musical",
+    "director": "Richard Lester",
+    "homeRecorded": false
+  },
+  {
+    "id": "3",
+    "title": "Qué noche la de aquel día! - (A hard days night!)",
+    "year": 1964,
+    "genre": "Musical",
+    "director": "Richard Lester",
+    "homeRecorded": false
+  },
+  {
+    "id": "4",
+    "title": "Bagdad Café - (Out of Rosenheim)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Percy Adlon",
+    "homeRecorded": false
+  },
+  {
+    "id": "5",
+    "title": "El silencio de los corderos - (The silence of the lambs)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Jonathan Demme",
+    "homeRecorded": false
+  },
+  {
+    "id": "6",
+    "title": "Superdetective en Hollywood - (Beverly Hills Cop)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Martin Brest",
+    "homeRecorded": false
+  },
+  {
+    "id": "7",
+    "title": "Paseando a Miss Daisy - (Driving Miss Daisy)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Bruce Beresford",
+    "homeRecorded": false
+  },
+  {
+    "id": "8",
+    "title": "Memorias de Africa - (Out of Africa)",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Sidney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "9",
+    "title": "Cuando Harry encontró a Sally - (When Harry meet Sally ...)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Rob Reiner",
+    "homeRecorded": false
+  },
+  {
+    "id": "10",
+    "title": "Todo aquello que usted deseaba saber sobre el sexo pero nunca se atrevió a preguntar",
+    "year": 1972,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "11",
+    "title": "Días de Radio - (Radio days)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "12",
+    "title": "Hannah y sus hermanas - (Hannah and her sisters)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "13",
+    "title": "Broadway Danny Rose - (Broadway Danny Rose)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "14",
+    "title": "La rosa púrpura de El Cairo - (The purple rose of Cairo)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "15",
+    "title": "Aterriza como puedas - (Airplane!)",
+    "year": 1980,
+    "genre": "Comedia",
+    "director": "Jim Abrahams",
+    "homeRecorded": false
+  },
+  {
+    "id": "16",
+    "title": "Agarralo como puedas - (The naked gun: from the files of police squad!)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "David Zucker",
+    "homeRecorded": false
+  },
+  {
+    "id": "17",
+    "title": "Peligrosamente juntos - (Legal eagles)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Ivan Reitman",
+    "homeRecorded": false
+  },
+  {
+    "id": "18",
+    "title": "Bailando con lobos - (Dances with wolves)",
+    "year": 1990,
+    "genre": "Western",
+    "director": "Kevin Costner",
+    "homeRecorded": false
+  },
+  {
+    "id": "19",
+    "title": "J.F.K. \"Caso abierto\" - (JFK)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Oliver Stone",
+    "homeRecorded": false
+  },
+  {
+    "id": "20",
+    "title": "El Club de los poetas muertos - (Deads poets Society)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Peter Weir",
+    "homeRecorded": false
+  },
+  {
+    "id": "21",
+    "title": "Tacones lejanos",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "22",
+    "title": "Hook, El Capitán Garfio - (Hook)",
+    "year": 1991,
+    "genre": "C.Ficción",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "23",
+    "title": "A propósito de Henry - (Regarding Henry)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Mike Nichols",
+    "homeRecorded": false
+  },
+  {
+    "id": "24",
+    "title": "Cyrano de Bergerac - (Cyrano de Bergerac)",
+    "year": 1989,
+    "genre": "Aventuras",
+    "director": "Jean-Paul Rappeneau",
+    "homeRecorded": false
+  },
+  {
+    "id": "25",
+    "title": "Cristóbal Colón,el Descubrimiento-(Christ.Col.:The Discovery)",
+    "year": 1992,
+    "genre": "Aventuras",
+    "director": "John Glenn",
+    "homeRecorded": false
+  },
+  {
+    "id": "26",
+    "title": "Instinto básico - (Basic Instinct)",
+    "year": 1992,
+    "genre": "Thriller",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "27",
+    "title": "El chip prodigioso - (Innerspace)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Joe Dante",
+    "homeRecorded": false
+  },
+  {
+    "id": "28",
+    "title": "Don Juan de los infiernos",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Gonzalo Suárez",
+    "homeRecorded": false
+  },
+  {
+    "id": "29",
+    "title": "La Jungla 2 (Alerta roja) - (Die hard 2- die harder)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Renny Harlin",
+    "homeRecorded": false
+  },
+  {
+    "id": "30",
+    "title": "El Rey pasmado",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Imanol Uribe",
+    "homeRecorded": false
+  },
+  {
+    "id": "31",
+    "title": "Acusados - (The accused)",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Jonathan Kaplan",
+    "homeRecorded": false
+  },
+  {
+    "id": "32",
+    "title": "La caza del Octubre rojo - (The hunt for Red October)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "John MacTiernan",
+    "homeRecorded": false
+  },
+  {
+    "id": "33",
+    "title": "Casada con todos - (Married to the mob)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Jonathan Demme",
+    "homeRecorded": false
+  },
+  {
+    "id": "34",
+    "title": "Fantasía - (Fantasia)",
+    "year": 1940,
+    "genre": "D.Animados",
+    "director": "Ben Shardsteen",
+    "homeRecorded": false
+  },
+  {
+    "id": "35",
+    "title": "La Cenicienta - (Cinderella)",
+    "year": 1950,
+    "genre": "D.animados",
+    "director": "Wilfred Jackson",
+    "homeRecorded": false
+  },
+  {
+    "id": "36",
+    "title": "Peter Pan - (Peter Pan)",
+    "year": 1953,
+    "genre": "D.animados",
+    "director": "Hamilton Luske",
+    "homeRecorded": false
+  },
+  {
+    "id": "37",
+    "title": "El graduado - (The Graduate)",
+    "year": 1967,
+    "genre": "Drama",
+    "director": "Mike Nichols",
+    "homeRecorded": false
+  },
+  {
+    "id": "38",
+    "title": "Baby, tu vales mucho - (Baby boom)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Charles Shyer",
+    "homeRecorded": false
+  },
+  {
+    "id": "39",
+    "title": "Elegir un amor - (Dying young)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Joel Schumacher",
+    "homeRecorded": false
+  },
+  {
+    "id": "40",
+    "title": "Durmiendo con su enemigo - (Sleeping with the enemy)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Joseph Ruben",
+    "homeRecorded": false
+  },
+  {
+    "id": "41",
+    "title": "Robin Hood \"Príncipe de los ladrones\"-(R.H.Prince of Thieves)",
+    "year": 1991,
+    "genre": "Aventuras",
+    "director": "Kevin Reynolds",
+    "homeRecorded": false
+  },
+  {
+    "id": "42",
+    "title": "Cariño, he encogido a los niños - (Hohey i shrunk the kids)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Joe Johnston",
+    "homeRecorded": false
+  },
+  {
+    "id": "43",
+    "title": "El Padrino. Parte III - (The godfather III)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "44",
+    "title": "Tomates verdes fritos - (Friend green tomatoes)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Jon Avnet",
+    "homeRecorded": false
+  },
+  {
+    "id": "45",
+    "title": "Matrimonio de conveniencia - (Green card)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Peter Weir",
+    "homeRecorded": false
+  },
+  {
+    "id": "46",
+    "title": "Beethoven, uno más de la familia - (Beethoven)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Brian Levant",
+    "homeRecorded": false
+  },
+  {
+    "id": "47",
+    "title": "Ausencia de malicia - (Absence of malice)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Sydney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "48",
+    "title": "FX2 Ilusiones mortales - (FX2)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Richard Franklin",
+    "homeRecorded": false
+  },
+  {
+    "id": "49",
+    "title": "El Gran Halcón - (Hudson Hawk)",
+    "year": 1991,
+    "genre": "Acción",
+    "director": "Michael Lehmann",
+    "homeRecorded": false
+  },
+  {
+    "id": "50",
+    "title": "Solos con nuestro tío - (Uncle Buck)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "John Hughes",
+    "homeRecorded": false
+  },
+  {
+    "id": "51",
+    "title": "El Cielo protector - (The sheltering sky)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "homeRecorded": false
+  },
+  {
+    "id": "52",
+    "title": "Dirty Dancing - (Dirty Dancing)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Emile Ardolino",
+    "homeRecorded": false
+  },
+  {
+    "id": "53",
+    "title": "El cabo del miedo - (Cape fear)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Martin Scorsese",
+    "homeRecorded": false
+  },
+  {
+    "id": "54",
+    "title": "Presunto inocente - (Presumed Innocent)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Alan J.Pakula",
+    "homeRecorded": false
+  },
+  {
+    "id": "55",
+    "title": "Regreso al Lago Azul - (Return to the blue Lagoon)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "William A.Graham",
+    "homeRecorded": false
+  },
+  {
+    "id": "56",
+    "title": "La joya del Nilo - (Jewel of the Nilo)",
+    "year": 1985,
+    "genre": "Aventuras",
+    "director": "Lewis Teague",
+    "homeRecorded": false
+  },
+  {
+    "id": "57",
+    "title": "Delicatessen - (Delicatessen)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Jean-Pierre Jeunet",
+    "homeRecorded": false
+  },
+  {
+    "id": "58",
+    "title": "Splash - (Splash)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Ron Howard",
+    "homeRecorded": false
+  },
+  {
+    "id": "59",
+    "title": "Pasión sin barreras - (White Palace)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Luis Mandoki",
+    "homeRecorded": false
+  },
+  {
+    "id": "60",
+    "title": "Venganza - (Revenge)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Tony Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "61",
+    "title": "Pensamientos mortales - (Mortal Thoughts)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Alan Rudolph",
+    "homeRecorded": false
+  },
+  {
+    "id": "62",
+    "title": "Gorilas en la niebla - (Gorillas in the mist)",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Michael Apted",
+    "homeRecorded": false
+  },
+  {
+    "id": "63",
+    "title": "Beltenebros",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Pilar Miró",
+    "homeRecorded": false
+  },
+  {
+    "id": "64",
+    "title": "El nombre de la rosa - (The name of the rose)",
+    "year": 1986,
+    "genre": "Drama",
+    "director": "Jean-Jacques Annaud",
+    "homeRecorded": false
+  },
+  {
+    "id": "65",
+    "title": "La vida de Brian - (Life of Brian)",
+    "year": 1979,
+    "genre": "Comedia",
+    "director": "Terry Jones",
+    "homeRecorded": false
+  },
+  {
+    "id": "66",
+    "title": "Hot shots ¡La madre de todos los desmadres! - (Hot shots)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Jim Abrahams",
+    "homeRecorded": false
+  },
+  {
+    "id": "67",
+    "title": "S.O.B. \"Sois honrados bandidos\" - (S.O.B.)",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Blake Edwards",
+    "homeRecorded": false
+  },
+  {
+    "id": "68",
+    "title": "El guardaespaldas - (The Bodyguard)",
+    "year": 1992,
+    "genre": "Thriller",
+    "director": "Mick Jackson",
+    "homeRecorded": false
+  },
+  {
+    "id": "69",
+    "title": "Solo en casa 2, perdido en N.Y.-(Home Alone 2 lost in N.Y.)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Chris Columbus",
+    "homeRecorded": false
+  },
+  {
+    "id": "70",
+    "title": "La ciudad de la alegría - (City of joy)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Roland Joffé",
+    "homeRecorded": false
+  },
+  {
+    "id": "71",
+    "title": "Esencia de mujer - (Scent of a woman)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Martin Briest",
+    "homeRecorded": false
+  },
+  {
+    "id": "72",
+    "title": "Drácula - (Bram Stroker's Dracula)",
+    "year": 1992,
+    "genre": "Terror",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "73",
+    "title": "La mano que mece la cuna - (The hand that rocks the cradle)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Curtis Hanson",
+    "homeRecorded": false
+  },
+  {
+    "id": "74",
+    "title": "Los últimos días del Edén - (The last days of Eden)",
+    "year": 1992,
+    "genre": "Aventuras",
+    "director": "John MacTiernan",
+    "homeRecorded": false
+  },
+  {
+    "id": "75",
+    "title": "Toys, fabricando ilusiones - (Toys)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Barry Levinson",
+    "homeRecorded": false
+  },
+  {
+    "id": "76",
+    "title": "El último Mohicano - (The last of the Mohicans)",
+    "year": 1991,
+    "genre": "Aventuras",
+    "director": "Michael Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "77",
+    "title": "Algunos hombres buenos - (A few good men)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Rob Reiner",
+    "homeRecorded": false
+  },
+  {
+    "id": "78",
+    "title": "El sentido de la vida - (Monty Python, the meaning of life)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Terry Jones",
+    "homeRecorded": false
+  },
+  {
+    "id": "79",
+    "title": "Makinavaja, \"El último choriso\"",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Carlos Suárez",
+    "homeRecorded": false
+  },
+  {
+    "id": "80",
+    "title": "Semos peligrosos!! (uséase Makinavaja 2)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Carlos Suárez",
+    "homeRecorded": false
+  },
+  {
+    "id": "81",
+    "title": "Mi chica - (My girl)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Howard Zieff",
+    "homeRecorded": false
+  },
+  {
+    "id": "82",
+    "title": "La mujer de rojo - (The woman in red)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Gene Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "83",
+    "title": "Alerta máxima - (Under siege)",
+    "year": 1992,
+    "genre": "Acción",
+    "director": "Andrew Davis",
+    "homeRecorded": false
+  },
+  {
+    "id": "84",
+    "title": "Mujer blanca soltera busca ... - (White single female ...)",
+    "year": 1992,
+    "genre": "Thriller",
+    "director": "Barbet Schroeder",
+    "homeRecorded": false
+  },
+  {
+    "id": "85",
+    "title": "Enamorarse - (Falling in love)",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "Ulu Grosbard",
+    "homeRecorded": false
+  },
+  {
+    "id": "86",
+    "title": "Loca Academia de Policía III-(Pol.Acad.3:Back in training)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Jerry Paris",
+    "homeRecorded": false
+  },
+  {
+    "id": "87",
+    "title": "Una proposición indecente - (Indecent proposal)",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Adrian Lyne",
+    "homeRecorded": false
+  },
+  {
+    "id": "88",
+    "title": "Malcom X (Parte I) - (Malcom X)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Spike Lee",
+    "homeRecorded": false
+  },
+  {
+    "id": "89",
+    "title": "Malcom X (Parte II) - (Malcom X)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Spike Lee",
+    "homeRecorded": false
+  },
+  {
+    "id": "90",
+    "title": "La tapadera - (The firm)",
+    "year": 1993,
+    "genre": "Thriller",
+    "director": "Sydney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "91",
+    "title": "Blancanieves y los 7 enanitos-(Snow White and the seven dwarfs)",
+    "year": 1937,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "92",
+    "title": "Philadelphia - (Philadelphia)",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Jonathan Demme",
+    "homeRecorded": false
+  },
+  {
+    "id": "93",
+    "title": "Atrapado en el tiempo - (Groundhog day)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Harold Ramis",
+    "homeRecorded": false
+  },
+  {
+    "id": "94",
+    "title": "La lista de Schlinder - (Schlinder's list)",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "95",
+    "title": "Señora Doubtfire, papá de por vida - (Mrs.Doubtfire)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Chris Columbus",
+    "homeRecorded": false
+  },
+  {
+    "id": "96",
+    "title": "Rapa Nui - (Rapa Nui)",
+    "year": 1994,
+    "genre": "Aventuras",
+    "director": "Kevin Reynolds",
+    "homeRecorded": false
+  },
+  {
+    "id": "97",
+    "title": "Un mundo perfecto - (A perfect world)",
+    "year": 1993,
+    "genre": "Thriller",
+    "director": "Clint Eastwood",
+    "homeRecorded": false
+  },
+  {
+    "id": "98",
+    "title": "Cuatro bodas y un funeral - (Four weddings and a funeral)",
+    "year": 1994,
+    "genre": "Comedia",
+    "director": "Mike Newell",
+    "homeRecorded": false
+  },
+  {
+    "id": "99",
+    "title": "En el nombre del padre - (In the name of the father)",
+    "year": 1993,
+    "genre": "Thriller",
+    "director": "Jim Sheridan",
+    "homeRecorded": false
+  },
+  {
+    "id": "100",
+    "title": "En la línea de fuego - (In the line of fire)",
+    "year": 1993,
+    "genre": "Acción",
+    "director": "Wolfgang Petersen",
+    "homeRecorded": false
+  },
+  {
+    "id": "101",
+    "title": "Mr.Jones - (Mr.Jones)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Mike Figgis",
+    "homeRecorded": false
+  },
+  {
+    "id": "102",
+    "title": "Indochina - (Indochina)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Régis Wargnier",
+    "homeRecorded": false
+  },
+  {
+    "id": "103",
+    "title": "La muerte os sienta tan bien - (Death becomes her)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Robert Zemeckis",
+    "homeRecorded": false
+  },
+  {
+    "id": "104",
+    "title": "Esperando a Mr.Bridge - (Mr.& Mrs.Bridge)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "James Ivory",
+    "homeRecorded": false
+  },
+  {
+    "id": "105",
+    "title": "El cartero siempre llama 2 veces - (The postman always rings twice)",
+    "year": 1982,
+    "genre": "Thriller",
+    "director": "Bob Rafelson",
+    "homeRecorded": false
+  },
+  {
+    "id": "106",
+    "title": "Tres solteros y un biberón - (Trois hommes et un couffin)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "Coline Serreau",
+    "homeRecorded": false
+  },
+  {
+    "id": "107",
+    "title": "Acero azul - (Blue steel)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Kathryn Bigelow",
+    "homeRecorded": false
+  },
+  {
+    "id": "108",
+    "title": "La calle de la media luna - (Half moon street)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Bob Swaim",
+    "homeRecorded": false
+  },
+  {
+    "id": "109",
+    "title": "Objeto de seducción - (The object of beauty)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Michael Lindsay-Hogg",
+    "homeRecorded": false
+  },
+  {
+    "id": "110",
+    "title": "La selva esmeralda - (The emerald forest)",
+    "year": 1985,
+    "genre": "Aventuras",
+    "director": "John Boorman",
+    "homeRecorded": false
+  },
+  {
+    "id": "111",
+    "title": "El honor de los Prizzi - (Prizzi's honor)",
+    "year": 1985,
+    "genre": "Thriller",
+    "director": "John Houston",
+    "homeRecorded": false
+  },
+  {
+    "id": "112",
+    "title": "El cuarto hombre - (De vierde man)",
+    "year": 1982,
+    "genre": "Thriller",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "113",
+    "title": "Sin testigos - (Blind side)",
+    "year": 1992,
+    "genre": "Thriller",
+    "director": "Geoff Murphy",
+    "homeRecorded": false
+  },
+  {
+    "id": "114",
+    "title": "El ataque de la mujer de 50 pies-(Attack of the 50 foot woman)",
+    "year": 1994,
+    "genre": "C.Ficción",
+    "director": "Christopher Guest",
+    "homeRecorded": false
+  },
+  {
+    "id": "115",
+    "title": "Freda y Camilla - (Camilla)",
+    "year": 1994,
+    "genre": "Comedia",
+    "director": "Deepa Mehta",
+    "homeRecorded": false
+  },
+  {
+    "id": "116",
+    "title": "La peste - (La peste)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Luis Puenzo",
+    "homeRecorded": false
+  },
+  {
+    "id": "117",
+    "title": "En el filo de la duda - (And the band played on)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Roger Spottiswoode",
+    "homeRecorded": false
+  },
+  {
+    "id": "118",
+    "title": "Leyendas de pasión - (Legends of the fall)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Edward Zwick",
+    "homeRecorded": false
+  },
+  {
+    "id": "119",
+    "title": "La Reina Margot - (La reine Margot)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Patrice Chéreau",
+    "homeRecorded": false
+  },
+  {
+    "id": "120",
+    "title": "Mentiras arriesgadas - (True lies)",
+    "year": 1994,
+    "genre": "Acción",
+    "director": "James Cameron",
+    "homeRecorded": false
+  },
+  {
+    "id": "121",
+    "title": "La Dama y el vagabundo - (Lady and the tramp)",
+    "year": 1955,
+    "genre": "D.Animados",
+    "director": "W.Jackson/ClydeGeronimi",
+    "homeRecorded": false
+  },
+  {
+    "id": "122",
+    "title": "Merlín El Encantador - (Sword in the stone)",
+    "year": 1963,
+    "genre": "D.Animados",
+    "director": "Wolfgang Reitherman",
+    "homeRecorded": false
+  },
+  {
+    "id": "123",
+    "title": "Pocahontas - (Pocahontas)",
+    "year": 1995,
+    "genre": "D.Animados",
+    "director": "M.Gabriel/Eric Goldberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "124",
+    "title": "La Tropa de los Goofy:Carrera de bañeras/La trampa mortal-(Goof Trop:The race is on)",
+    "year": 1994,
+    "genre": "D.Animados",
+    "director": "Libby Hinson",
+    "homeRecorded": false
+  },
+  {
+    "id": "125",
+    "title": "Caperucita roja",
+    "year": 1994,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "126",
+    "title": "El Jorobado de Notre Dame - (The Hunchback of Notre Dame)",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "Gary Trousdale/Kirk Wise",
+    "homeRecorded": false
+  },
+  {
+    "id": "127",
+    "title": "Pulgarcita - (Thumbelina)",
+    "year": 1994,
+    "genre": "D.Animados",
+    "director": "Don Bluth/Gary Goldman",
+    "homeRecorded": false
+  },
+  {
+    "id": "128",
+    "title": "La princesita - (A little princess)",
+    "year": 1995,
+    "genre": "Aventuras",
+    "director": "Alfonso Cuaron",
+    "homeRecorded": false
+  },
+  {
+    "id": "129",
+    "title": "El honor de los Prizzi - (Prizzi's honor)",
+    "year": 1985,
+    "genre": "Thriller",
+    "director": "John Huston",
+    "homeRecorded": false
+  },
+  {
+    "id": "130",
+    "title": "Anastasia - (Anastasia)",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Don Bluth/Gary Goldman",
+    "homeRecorded": false
+  },
+  {
+    "id": "131",
+    "title": "El Príncipe de Egipto - (The Prince of Egypt)",
+    "year": 1998,
+    "genre": "D.Animados",
+    "director": "Br.Chapman/St Hickner",
+    "homeRecorded": false
+  },
+  {
+    "id": "132",
+    "title": "El paciente inglés - (The english patient)",
+    "year": 1997,
+    "genre": "Drama",
+    "director": "Anthony Minghella",
+    "homeRecorded": false
+  },
+  {
+    "id": "133",
+    "title": "Pactar con el diablo - (Devil's advocate)",
+    "year": 1997,
+    "genre": "Thriller",
+    "director": "Taylor Hackford",
+    "homeRecorded": false
+  },
+  {
+    "id": "134",
+    "title": "El último Emperador - (The last Emperor)",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "homeRecorded": false
+  },
+  {
+    "id": "135",
+    "title": "Nueve semanas y media - (9 1/2 weeks)",
+    "year": 1985,
+    "genre": "Thriller",
+    "director": "Adrian Lyne",
+    "homeRecorded": false
+  },
+  {
+    "id": "136",
+    "title": "Desafío total - (Total recall)",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "137",
+    "title": "La tentación vive arriba - (The seven year itch)",
+    "year": 1955,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "138",
+    "title": "Robocop - (Robocop)",
+    "year": 1987,
+    "genre": "Acción",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "139",
+    "title": "La Profecía - (The Omen)",
+    "year": 1976,
+    "genre": "Terror",
+    "director": "Richard Donner",
+    "homeRecorded": false
+  },
+  {
+    "id": "140",
+    "title": "No hay salida - (No way out)",
+    "year": 1987,
+    "genre": "Acción",
+    "director": "Roger Donaldson",
+    "homeRecorded": false
+  },
+  {
+    "id": "141",
+    "title": "Tras el corazón verde - (Romancing the stone)",
+    "year": 1984,
+    "genre": "Aventuras",
+    "director": "Robert Zemeckis",
+    "homeRecorded": false
+  },
+  {
+    "id": "142",
+    "title": "Encuentros en la 3ª Fase-(Close encounters of the third King)",
+    "year": 1977,
+    "genre": "C.Ficción",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "143",
+    "title": "La reina de Africa - (The African Queen)",
+    "year": 1952,
+    "genre": "Aventuras",
+    "director": "John Huston",
+    "homeRecorded": false
+  },
+  {
+    "id": "144",
+    "title": "El Planeta de los simios - (Planet of the apes)",
+    "year": 1968,
+    "genre": "C.Ficción",
+    "director": "Franklin J.Schaffner",
+    "homeRecorded": false
+  },
+  {
+    "id": "145",
+    "title": "Alien \"El octavo pasajero\" - (Alien)",
+    "year": 1979,
+    "genre": "C.Ficción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "146",
+    "title": "Tootsie - (Tootsie)",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "Sidney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "147",
+    "title": "Vértigo - (De entre los muertos)",
+    "year": 1958,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "148",
+    "title": "Muerte entre las flores - (Miller's crossing)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Joel Coen",
+    "homeRecorded": false
+  },
+  {
+    "id": "149",
+    "title": "La guerra de los Rose - (The war of Rose)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Danny DeVito",
+    "homeRecorded": false
+  },
+  {
+    "id": "150",
+    "title": "Amadeus - (Amadeus)",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "Milos Forman",
+    "homeRecorded": false
+  },
+  {
+    "id": "151",
+    "title": "La Misión - (The Mission)",
+    "year": 1986,
+    "genre": "Acción",
+    "director": "Roland Joffe",
+    "homeRecorded": false
+  },
+  {
+    "id": "152",
+    "title": "Las amistades peligrosas - (Dangerous liaisons)",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Stephen Frears",
+    "homeRecorded": false
+  },
+  {
+    "id": "153",
+    "title": "Los gritos del silencio - (The killing fields)",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "Roland Joffe",
+    "homeRecorded": false
+  },
+  {
+    "id": "154",
+    "title": "El exorcista - (The exorcist)",
+    "year": 1973,
+    "genre": "Terror",
+    "director": "William Friedkin",
+    "homeRecorded": false
+  },
+  {
+    "id": "155",
+    "title": "Annie Hall - (Annie Hall)",
+    "year": 1977,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "156",
+    "title": "Con faldas y a lo loco - (Some like it hot)",
+    "year": 1959,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "157",
+    "title": "El apartamento - (The apartment)",
+    "year": 1960,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "158",
+    "title": "Eduardo Manostijeras - (Edward Scissorhands)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Tim Burton",
+    "homeRecorded": false
+  },
+  {
+    "id": "159",
+    "title": "Flashdance - (Flashdance)",
+    "year": 1983,
+    "genre": "Musical",
+    "director": "Adrian Lyne",
+    "homeRecorded": false
+  },
+  {
+    "id": "160",
+    "title": "Un crimen perfecto - ( A perfect murder)",
+    "year": 1998,
+    "genre": "Thriller",
+    "director": "Andrew Davis",
+    "homeRecorded": false
+  },
+  {
+    "id": "161",
+    "title": "Patch Adams - (Patch Adams)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Tom Shadyac",
+    "homeRecorded": false
+  },
+  {
+    "id": "162",
+    "title": "American history X - (American history X)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Tony Kaye",
+    "homeRecorded": false
+  },
+  {
+    "id": "163",
+    "title": "Ronin - (Ronin)",
+    "year": 1998,
+    "genre": "Acción",
+    "director": "John Frankenheimer",
+    "homeRecorded": false
+  },
+  {
+    "id": "164",
+    "title": "El gurú - (Holy man)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Stephen Herek",
+    "homeRecorded": false
+  },
+  {
+    "id": "165",
+    "title": "Mensaje en una botella - (Message in a bottle)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Luis Mandoki",
+    "homeRecorded": false
+  },
+  {
+    "id": "166",
+    "title": "El coleccionista de amantes - (Kiss the girls)",
+    "year": 1997,
+    "genre": "Thriller",
+    "director": "Gary Fleder",
+    "homeRecorded": false
+  },
+  {
+    "id": "167",
+    "title": "Un romance muy peligroso - (Out of Sight)",
+    "year": 1998,
+    "genre": "Thriller",
+    "director": "Steven Soderbergh",
+    "homeRecorded": false
+  },
+  {
+    "id": "168",
+    "title": "Dioses y monstruos - (Gods and monsters)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Bill Condon",
+    "homeRecorded": false
+  },
+  {
+    "id": "169",
+    "title": "Siempre queda el amor - (Hope floats)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Forest Whitaker",
+    "homeRecorded": false
+  },
+  {
+    "id": "170",
+    "title": "El inolvidable Simon Birch - (Simon Birch)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Mark Steven Johnson",
+    "homeRecorded": false
+  },
+  {
+    "id": "171",
+    "title": "City of Angels - (City of Angels)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Brad Silberling",
+    "homeRecorded": false
+  },
+  {
+    "id": "172",
+    "title": "Caza al terrorista - (The assignment)",
+    "year": 1997,
+    "genre": "Acción",
+    "director": "Christian Duguay",
+    "homeRecorded": false
+  },
+  {
+    "id": "173",
+    "title": "A primera vista - (At first sight)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Irwin Winkler",
+    "homeRecorded": false
+  },
+  {
+    "id": "174",
+    "title": "Cosas que importan - (One true thing)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Carl Franklin",
+    "homeRecorded": false
+  },
+  {
+    "id": "175",
+    "title": "Como caido del cielo - (Just the ticket)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Richard Wenk",
+    "homeRecorded": false
+  },
+  {
+    "id": "176",
+    "title": "Prácticamente magia - (Practical Magic)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Griffin Dunne",
+    "homeRecorded": false
+  },
+  {
+    "id": "177",
+    "title": "Elizabeth - (Elizabeth)",
+    "year": 1998,
+    "genre": "Histórica",
+    "director": "Shekhar Kapur",
+    "homeRecorded": false
+  },
+  {
+    "id": "178",
+    "title": "Horizonte final - (Event horizon)",
+    "year": 1997,
+    "genre": "C.ficción",
+    "director": "Paul Anderson",
+    "homeRecorded": false
+  },
+  {
+    "id": "179",
+    "title": "Más allá de los sueños - (What dreams may come)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Vincent Ward",
+    "homeRecorded": false
+  },
+  {
+    "id": "180",
+    "title": "Mucho más que amigos - (The object of my affection)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Nicholas Hynter",
+    "homeRecorded": false
+  },
+  {
+    "id": "181",
+    "title": "Psycho (Psicosis) - (Psycho)",
+    "year": 1998,
+    "genre": "Terror/Thriller",
+    "director": "Gus Van Sant",
+    "homeRecorded": false
+  },
+  {
+    "id": "182",
+    "title": "Negociador - (The negotiator)",
+    "year": 1998,
+    "genre": "Acción",
+    "director": "F.Gary Gray",
+    "homeRecorded": false
+  },
+  {
+    "id": "183",
+    "title": "Hi-Lo Country - (The Hilo-Country)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Stephen Frears",
+    "homeRecorded": false
+  },
+  {
+    "id": "184",
+    "title": "Very bad Things - (Very bad Things)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Peter Berg",
+    "homeRecorded": false
+  },
+  {
+    "id": "185",
+    "title": "Blade - (Blade)",
+    "year": 1998,
+    "genre": "Acción",
+    "director": "Stephen Norrington",
+    "homeRecorded": false
+  },
+  {
+    "id": "186",
+    "title": "Pleasantville - (Pleasantville)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Gary Ross",
+    "homeRecorded": false
+  },
+  {
+    "id": "187",
+    "title": "Un amor por descubrir - (The nephew)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Eugene Brady",
+    "homeRecorded": false
+  },
+  {
+    "id": "188",
+    "title": "Quédate a mi lado - (Stepmon)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Chris Columbus",
+    "homeRecorded": false
+  },
+  {
+    "id": "189",
+    "title": "Más fuerte que su destino - (Dangerous beauty)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Marshall Herskovitz",
+    "homeRecorded": false
+  },
+  {
+    "id": "190",
+    "title": "Regreso al Paraíso - (Return to Paradise)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Joseph Ruben",
+    "homeRecorded": false
+  },
+  {
+    "id": "191",
+    "title": "Perdidos en el espacio - (Lost in space)",
+    "year": 1998,
+    "genre": "Aventuras",
+    "director": "Stephen Hopkins",
+    "homeRecorded": false
+  },
+  {
+    "id": "192",
+    "title": "Grandes esperanzas - (Great expectations)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Alfonso Cuarón",
+    "homeRecorded": false
+  },
+  {
+    "id": "193",
+    "title": "Plunkett & Macleane - (Plunkett & Macleane)",
+    "year": 1999,
+    "genre": "Aventuras",
+    "director": "Jake Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "194",
+    "title": "Lock & Stock - (Lock, Stock and two smoking barrels)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Guy Ritchie",
+    "homeRecorded": false
+  },
+  {
+    "id": "195",
+    "title": "Matrix - (The Matrix)",
+    "year": 1999,
+    "genre": "Acción",
+    "director": "Andy y Larry Wachowski",
+    "homeRecorded": false
+  },
+  {
+    "id": "196",
+    "title": "El sexto sentido - (The sixt sense)",
+    "year": 1999,
+    "genre": "Thriller",
+    "director": "M.Night Shyamalan",
+    "homeRecorded": false
+  },
+  {
+    "id": "197",
+    "title": "La Momia - (The Mummy)",
+    "year": 1999,
+    "genre": "Aventuras",
+    "director": "Stephen Sommers",
+    "homeRecorded": false
+  },
+  {
+    "id": "198",
+    "title": "Notting Hill - (Notting Hill)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Roger Michell",
+    "homeRecorded": false
+  },
+  {
+    "id": "199",
+    "title": "American beauty - (American beauty)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Sam Mendes",
+    "homeRecorded": false
+  },
+  {
+    "id": "200",
+    "title": "Locos en Alabama - (Crazy in Alabama)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Antonio Banderas",
+    "homeRecorded": false
+  },
+  {
+    "id": "201",
+    "title": "La hija del general - (The general's Daughter)",
+    "year": 1999,
+    "genre": "Thriller",
+    "director": "Simon West",
+    "homeRecorded": false
+  },
+  {
+    "id": "202",
+    "title": "Celebrity - (Celebrity)",
+    "year": 1998,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "203",
+    "title": "La sombra del Faraón - (Talos the Mummy)",
+    "year": 1998,
+    "genre": "Aventuras",
+    "director": "Russell Mulcahy",
+    "homeRecorded": false
+  },
+  {
+    "id": "204",
+    "title": "Deep Blue Sea - (Deep Blue sea)",
+    "year": 1999,
+    "genre": "Terror",
+    "director": "Renny Harlin",
+    "homeRecorded": false
+  },
+  {
+    "id": "205",
+    "title": "Jugando con el corazón - (Playing by heart)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Willard Carroll",
+    "homeRecorded": false
+  },
+  {
+    "id": "206",
+    "title": "Música del corazón - (Music of the heart)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Wes Craven",
+    "homeRecorded": false
+  },
+  {
+    "id": "207",
+    "title": "Novia a la fuga - (Runaway bride)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Garry Marshall",
+    "homeRecorded": false
+  },
+  {
+    "id": "208",
+    "title": "El padre de la novia - (Father of the bride)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Charles Shyer",
+    "homeRecorded": false
+  },
+  {
+    "id": "209",
+    "title": "Falsas apariencias - (The whole nine yards)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Jonathan Lynn",
+    "homeRecorded": false
+  },
+  {
+    "id": "210",
+    "title": "Inocencia interrumpida - (Girl interrupted)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "James Mangold",
+    "homeRecorded": false
+  },
+  {
+    "id": "211",
+    "title": "Doble traición - (Double jeopardy)",
+    "year": 1999,
+    "genre": "Thriller",
+    "director": "Bruce Beresford",
+    "homeRecorded": false
+  },
+  {
+    "id": "212",
+    "title": "Erin Brockovich - (Erin Brockovich)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Steven Soderbergh",
+    "homeRecorded": false
+  },
+  {
+    "id": "213",
+    "title": "Eyes Wide Shut - (Eyes wide shut)",
+    "year": 1999,
+    "genre": "Psicodrama",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "214",
+    "title": "Calma total - (Dead calm)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Phillip Noyce",
+    "homeRecorded": false
+  },
+  {
+    "id": "215",
+    "title": "El fin de los días - (End of days)",
+    "year": 1999,
+    "genre": "Thriller terror",
+    "director": "Peter Hyams",
+    "homeRecorded": false
+  },
+  {
+    "id": "216",
+    "title": "Colgadas - (Hanging up)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Diane Keaton",
+    "homeRecorded": false
+  },
+  {
+    "id": "217",
+    "title": "La milla verde - (The green mile)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "homeRecorded": false
+  },
+  {
+    "id": "218",
+    "title": "Wild Wild West - (Wild Wild West)",
+    "year": 1999,
+    "genre": "Western",
+    "director": "Barry Sonnenfeld",
+    "homeRecorded": false
+  },
+  {
+    "id": "219",
+    "title": "Dave, presidente por un día - (Dave)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Ivan Reitman",
+    "homeRecorded": false
+  },
+  {
+    "id": "220",
+    "title": "American pie - (American pie)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Paul Weitz",
+    "homeRecorded": false
+  },
+  {
+    "id": "221",
+    "title": "El guerrero nº 13 - (The 13th warrior)",
+    "year": 1999,
+    "genre": "Aventuras",
+    "director": "John McTiernan",
+    "homeRecorded": false
+  },
+  {
+    "id": "222",
+    "title": "El soltero - (The bachelor)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Gary Sinyor",
+    "homeRecorded": false
+  },
+  {
+    "id": "223",
+    "title": "Acción civil - (A civil action)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "Steven Zaillian",
+    "homeRecorded": false
+  },
+  {
+    "id": "224",
+    "title": "Las cenizas de Angela - (Angela's Ashes)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Alan Parker",
+    "homeRecorded": false
+  },
+  {
+    "id": "225",
+    "title": "Un domingo cualquiera - (Any given sunday)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Oliver Stone",
+    "homeRecorded": false
+  },
+  {
+    "id": "226",
+    "title": "El talento de Mr.Ripley - (The talented Mr.Ripley)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Anthony Minghella",
+    "homeRecorded": false
+  },
+  {
+    "id": "227",
+    "title": "El dilema - (The insider)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Michael Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "228",
+    "title": "Magnolia - (Magnolia)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Paul Thomas Abderson",
+    "homeRecorded": false
+  },
+  {
+    "id": "229",
+    "title": "Las normas de la casa de la sidra - (The cider house rules)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Lasse Hallström",
+    "homeRecorded": false
+  },
+  {
+    "id": "230",
+    "title": "Mickey ojos azules - (Mickey blue eyes)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Kelly Makin",
+    "homeRecorded": false
+  },
+  {
+    "id": "231",
+    "title": "Tres Reyes - (Three Kings)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "David O.Russell",
+    "homeRecorded": false
+  },
+  {
+    "id": "232",
+    "title": "Algo casi perfecto - (The next best thing)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "John Schelisenger",
+    "homeRecorded": false
+  },
+  {
+    "id": "233",
+    "title": "Huracán Carter - (The Hurricane)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Norman Jewinson",
+    "homeRecorded": false
+  },
+  {
+    "id": "234",
+    "title": "Soñé con Africa - (I dreamed of Africa)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Hugh Hudson",
+    "homeRecorded": false
+  },
+  {
+    "id": "235",
+    "title": "El beso de Judas - (Judas kiss)",
+    "year": 1998,
+    "genre": "Thriller",
+    "director": "Sebastián Gutiérrez",
+    "homeRecorded": false
+  },
+  {
+    "id": "236",
+    "title": "Star Trek: Insurrección - (Star Trek: Insurrection)",
+    "year": 1998,
+    "genre": "C.ficción",
+    "director": "Jonathan Frakes",
+    "homeRecorded": false
+  },
+  {
+    "id": "237",
+    "title": "The million dollar Hotel - (The million dollar Hotel)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Wim Wenders",
+    "homeRecorded": false
+  },
+  {
+    "id": "238",
+    "title": "Una terapia peligrosa - (Analyze this)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Harold Ramis",
+    "homeRecorded": false
+  },
+  {
+    "id": "239",
+    "title": "Jugando a tope - (Play it to the bone)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Ron Shelton",
+    "homeRecorded": false
+  },
+  {
+    "id": "240",
+    "title": "Juana de Arco - (The Mesenger: The Story of Joan of Arc)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Luc Besson",
+    "homeRecorded": false
+  },
+  {
+    "id": "241",
+    "title": "Payback - (Payback)",
+    "year": 1998,
+    "genre": "Acción",
+    "director": "Brian Helgeland",
+    "homeRecorded": false
+  },
+  {
+    "id": "242",
+    "title": "Entre el amor y el juego - (For love of the game)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Sam Raimi",
+    "homeRecorded": false
+  },
+  {
+    "id": "243",
+    "title": "Secuestrando a la Srta. Tingle - (Teaching Mrs.Tingle)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Kevin Williamson",
+    "homeRecorded": false
+  },
+  {
+    "id": "244",
+    "title": "El fin del romance - (The end of the affair)",
+    "year": 1999,
+    "genre": "Policiaca",
+    "director": "Neil Jordan",
+    "homeRecorded": false
+  },
+  {
+    "id": "245",
+    "title": "Cómo ser John Malkovich - (Being John Malkovich)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Spike Jonze",
+    "homeRecorded": false
+  },
+  {
+    "id": "246",
+    "title": "Crueles intenciones - (Cruel intentions)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Roger Kumble",
+    "homeRecorded": false
+  },
+  {
+    "id": "247",
+    "title": "RKO 281 - (RKO 281)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Benjamin Ross",
+    "homeRecorded": false
+  },
+  {
+    "id": "248",
+    "title": "Beowulf. la Leyenda - (Beowulf)",
+    "year": 1999,
+    "genre": "Aventuras",
+    "director": "Graham Baker",
+    "homeRecorded": false
+  },
+  {
+    "id": "249",
+    "title": "Pitch Black - (Pitch black)",
+    "year": 2000,
+    "genre": "C.ficción",
+    "director": "David N.Twohy",
+    "homeRecorded": false
+  },
+  {
+    "id": "250",
+    "title": "Soldado Universal. El retorno - (Universal soldier: the return)",
+    "year": 1999,
+    "genre": "Acción",
+    "director": "Mic Rodgers",
+    "homeRecorded": false
+  },
+  {
+    "id": "251",
+    "title": "Bowfinger, el pícaro - (Bowfinger)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Frank Oz",
+    "homeRecorded": false
+  },
+  {
+    "id": "252",
+    "title": "Lo que la verdad esconde - (What lies beneath)",
+    "year": 2000,
+    "genre": "Terror psicol.",
+    "director": "Robert Zemeckis",
+    "homeRecorded": false
+  },
+  {
+    "id": "253",
+    "title": "El regreso de la Momia - (The Mummy returns)",
+    "year": 2001,
+    "genre": "Aventuras",
+    "director": "Stephen Sommers",
+    "homeRecorded": false
+  },
+  {
+    "id": "254",
+    "title": "Pearl Harbor - (Pearl Harbor)",
+    "year": 2001,
+    "genre": "Bélica",
+    "director": "Michael Bay",
+    "homeRecorded": false
+  },
+  {
+    "id": "255",
+    "title": "El protegido - (Unbreakable)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "M.Night Shyamalan",
+    "homeRecorded": false
+  },
+  {
+    "id": "256",
+    "title": "Torrente 2. Misión en Marbella",
+    "year": 2001,
+    "genre": "Comedia",
+    "director": "Santiago Segura",
+    "homeRecorded": false
+  },
+  {
+    "id": "257",
+    "title": "La tormenta perfecta - (The perfect storm)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Wolfgang Petersen",
+    "homeRecorded": false
+  },
+  {
+    "id": "258",
+    "title": "Chocolat - (Chocolat)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Lase Hallström",
+    "homeRecorded": false
+  },
+  {
+    "id": "259",
+    "title": "X - Men - (X-Men)",
+    "year": 2000,
+    "genre": "C.ficción",
+    "director": "Bryan Singer",
+    "homeRecorded": false
+  },
+  {
+    "id": "260",
+    "title": "Tigre&Dragón - (Wo hu cang long/crouchin Tiger, Hidden Dragon)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Ang Lee",
+    "homeRecorded": false
+  },
+  {
+    "id": "261",
+    "title": "Miss agente especial - (Miss Congeniality)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Donald Petrie",
+    "homeRecorded": false
+  },
+  {
+    "id": "262",
+    "title": "Sesenta segundos - (Gone in sixty seconds)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Dominic Sena",
+    "homeRecorded": false
+  },
+  {
+    "id": "263",
+    "title": "Billy Elliot (quiero bailar) - (Billy Elliot)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Stephen Daldry",
+    "homeRecorded": false
+  },
+  {
+    "id": "264",
+    "title": "Algo que contar - (Bounce)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Don Roos",
+    "homeRecorded": false
+  },
+  {
+    "id": "265",
+    "title": "El último escalón - (Stir of echoes)",
+    "year": 1999,
+    "genre": "Terror",
+    "director": "David Koepp",
+    "homeRecorded": false
+  },
+  {
+    "id": "266",
+    "title": "Al diablo con el diablo - (Bedazzled)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Harold Ramis",
+    "homeRecorded": false
+  },
+  {
+    "id": "267",
+    "title": "Yo, yo mismo e Irene - (My Miself & Irene)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Bobby&Peter Farrelli",
+    "homeRecorded": false
+  },
+  {
+    "id": "268",
+    "title": "Hannibal - (Hannibal)",
+    "year": 2001,
+    "genre": "Thriller",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "269",
+    "title": "El arte de la guerra - (The art of war)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Christian Duguay",
+    "homeRecorded": false
+  },
+  {
+    "id": "270",
+    "title": "South Park.Mas grande,mas largo y sin cortes-(South Park.Bigger,longer&Uncut)",
+    "year": 1999,
+    "genre": "D.animados",
+    "director": "Trey Parker",
+    "homeRecorded": false
+  },
+  {
+    "id": "271",
+    "title": "La hora de la araña - (Along Came a Spider)",
+    "year": 2001,
+    "genre": "Thriller",
+    "director": "Lee Tamahori",
+    "homeRecorded": false
+  },
+  {
+    "id": "272",
+    "title": "El Bar coyote - (Coyote ugly)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "David McNally",
+    "homeRecorded": false
+  },
+  {
+    "id": "273",
+    "title": "U-571 - (U-571)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Jonathan Motow",
+    "homeRecorded": false
+  },
+  {
+    "id": "274",
+    "title": "Little Nicky - (Little Nicky)",
+    "year": 2000,
+    "genre": "Com.fantást.",
+    "director": "Steven Brill",
+    "homeRecorded": false
+  },
+  {
+    "id": "275",
+    "title": "Prueba de vida - (Proof of life)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Taylor Hackford",
+    "homeRecorded": false
+  },
+  {
+    "id": "276",
+    "title": "Hombres de honor - (Men of honor)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "George Tillman Jr.",
+    "homeRecorded": false
+  },
+  {
+    "id": "277",
+    "title": "Al límite - (Bringing out the death)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "homeRecorded": false
+  },
+  {
+    "id": "278",
+    "title": "Granujas de medio pelo - (Small time crooks)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "279",
+    "title": "El diario de Bridget Jones - (Bridget Jones's Diary)",
+    "year": 2001,
+    "genre": "Comedia",
+    "director": "Sharon Maguire",
+    "homeRecorded": false
+  },
+  {
+    "id": "280",
+    "title": "Premonición - (The gift)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Sam Raimi",
+    "homeRecorded": false
+  },
+  {
+    "id": "281",
+    "title": "Tango para tres - (Three to tango)",
+    "year": 1999,
+    "genre": "Comedia",
+    "director": "Damon Santostefano",
+    "homeRecorded": false
+  },
+  {
+    "id": "282",
+    "title": "O Brother! - (O Brother, where art thou?)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Joel Coen",
+    "homeRecorded": false
+  },
+  {
+    "id": "283",
+    "title": "Mas que amigos - (Keeping the faith)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Edward Norton",
+    "homeRecorded": false
+  },
+  {
+    "id": "284",
+    "title": "Romeo debe morir - (Romeo must die)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Andrzej Bartkowiak",
+    "homeRecorded": false
+  },
+  {
+    "id": "285",
+    "title": "Scary Movie - (Scary Movie)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Keenen Ivory Wayans",
+    "homeRecorded": false
+  },
+  {
+    "id": "286",
+    "title": "La playa - (The beach)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Danny Boyle",
+    "homeRecorded": false
+  },
+  {
+    "id": "287",
+    "title": "El sastre de Panamá - (The tailor of Panama)",
+    "year": 2001,
+    "genre": "Comedia",
+    "director": "John Boorman",
+    "homeRecorded": false
+  },
+  {
+    "id": "288",
+    "title": "Druidas - (Druids) (Vercingétorix, la legénde du druide roi)",
+    "year": 2001,
+    "genre": "Aventuras",
+    "director": "Jacques Dorfmann",
+    "homeRecorded": false
+  },
+  {
+    "id": "289",
+    "title": "Titanes - (Remember the titans)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Boaz Yakin",
+    "homeRecorded": false
+  },
+  {
+    "id": "290",
+    "title": "Malena - (Malèna)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Giuseppe Tomatore",
+    "homeRecorded": false
+  },
+  {
+    "id": "291",
+    "title": "Noviembre dulce - (Sweet November)",
+    "year": 2001,
+    "genre": "Comedia",
+    "director": "Pat O'Connor",
+    "homeRecorded": false
+  },
+  {
+    "id": "292",
+    "title": "La leyenda de Bagger Vance - (The legend of Bagger Vance)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Robert Redford",
+    "homeRecorded": false
+  },
+  {
+    "id": "293",
+    "title": "Otoño en Nueva York - (Autumn in New York)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Joan Chen",
+    "homeRecorded": false
+  },
+  {
+    "id": "294",
+    "title": "Cadena de favores - (Pay it forward)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Mimi Leder",
+    "homeRecorded": false
+  },
+  {
+    "id": "295",
+    "title": "Esta abuela es un peligro - (Big Momma's house)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Raja Gosnel",
+    "homeRecorded": false
+  },
+  {
+    "id": "296",
+    "title": "The Skulls. Sociedad secreta - (The Skulls)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Rob Cohen",
+    "homeRecorded": false
+  },
+  {
+    "id": "297",
+    "title": "Candidata al poder - (The contender)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "Rod Lurie",
+    "homeRecorded": false
+  },
+  {
+    "id": "298",
+    "title": "Woman on top - (Woman on top)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Fina Torres",
+    "homeRecorded": false
+  },
+  {
+    "id": "299",
+    "title": "Planes de boda - (The wedding planner)",
+    "year": 2001,
+    "genre": "Comedia",
+    "director": "Adam Shankman",
+    "homeRecorded": false
+  },
+  {
+    "id": "300",
+    "title": "Operación Reno - (Reindeer games)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "John Frankenheimer",
+    "homeRecorded": false
+  },
+  {
+    "id": "301",
+    "title": "El pacto de los lobos - (Le pacte des loups)",
+    "year": 2001,
+    "genre": "Drama",
+    "director": "Christophe Gans",
+    "homeRecorded": false
+  },
+  {
+    "id": "302",
+    "title": "Dracula 2001 - (Dracula 2001)",
+    "year": 2000,
+    "genre": "Terror",
+    "director": "Patrik Lussier",
+    "homeRecorded": false
+  },
+  {
+    "id": "303",
+    "title": "Trixie - (Trixie)",
+    "year": 2000,
+    "genre": "Comedia",
+    "director": "Alan Rudolph",
+    "homeRecorded": false
+  },
+  {
+    "id": "304",
+    "title": "El exorcista - (The exorcist)",
+    "year": 1973,
+    "genre": "Terror",
+    "director": "William Friedkin",
+    "homeRecorded": false
+  },
+  {
+    "id": "305",
+    "title": "Aliens \"El regreso\" - (Aliens)",
+    "year": 1986,
+    "genre": "Terror",
+    "director": "James Cameron",
+    "homeRecorded": false
+  },
+  {
+    "id": "306",
+    "title": "Pesadilla en Elm Street - (A nightmare om Elm Street)",
+    "year": 1984,
+    "genre": "Terror",
+    "director": "Wes Craven",
+    "homeRecorded": false
+  },
+  {
+    "id": "307",
+    "title": "Poltergeist: Fenómenos extraños - (Poltergeist)",
+    "year": 1982,
+    "genre": "Terror",
+    "director": "Tobe Hooper",
+    "homeRecorded": false
+  },
+  {
+    "id": "308",
+    "title": "La semilla del diablo - (Rosemary's Baby)",
+    "year": 1968,
+    "genre": "Terror",
+    "director": "Roman Polanski",
+    "homeRecorded": false
+  },
+  {
+    "id": "309",
+    "title": "Viernes 13 - (Friday the 13 Th)",
+    "year": 1980,
+    "genre": "Terror",
+    "director": "Sean S.Cunningham",
+    "homeRecorded": false
+  },
+  {
+    "id": "310",
+    "title": "El Príncipe de las tinieblas - (Prince of Darkness)",
+    "year": 1987,
+    "genre": "Terror",
+    "director": "John Carpenter",
+    "homeRecorded": false
+  },
+  {
+    "id": "311",
+    "title": "La mosca - (The fly)",
+    "year": 1986,
+    "genre": "C.Ficción",
+    "director": "David Cronemberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "312",
+    "title": "El resplandor - (The Shinning)",
+    "year": 1980,
+    "genre": "Terror",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "313",
+    "title": "Alien \"El octavo pasajero\" - (Alien)",
+    "year": 1979,
+    "genre": "C.Ficción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "314",
+    "title": "Critters. ¡Ojo! muerden - (Critters)",
+    "year": 1986,
+    "genre": "Terror",
+    "director": "Stephen Herek",
+    "homeRecorded": false
+  },
+  {
+    "id": "315",
+    "title": "Noche de miedo - (Fright Night)",
+    "year": 1985,
+    "genre": "Terror",
+    "director": "Tom Holand",
+    "homeRecorded": false
+  },
+  {
+    "id": "316",
+    "title": "La Cosa (El enigma de otro mundo) - (The thing)",
+    "year": 1982,
+    "genre": "Terror",
+    "director": "John Carpenter",
+    "homeRecorded": false
+  },
+  {
+    "id": "317",
+    "title": "La tutora - (The Guardian)",
+    "year": 1990,
+    "genre": "Terror",
+    "director": "William Friedkin",
+    "homeRecorded": false
+  },
+  {
+    "id": "318",
+    "title": "Doble cuerpo - (Body double)",
+    "year": 1984,
+    "genre": "Thriller",
+    "director": "Brian De Palma",
+    "homeRecorded": false
+  },
+  {
+    "id": "319",
+    "title": "De repente un extraño - (Pacific heights)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "John Schlesinger",
+    "homeRecorded": false
+  },
+  {
+    "id": "320",
+    "title": "La matanza de Texas - (The Texas Chainsaw massacre)",
+    "year": 1974,
+    "genre": "Terror",
+    "director": "Tobe Hooper",
+    "homeRecorded": false
+  },
+  {
+    "id": "321",
+    "title": "La noche de los muertos vivientes - (Night of the living dead)",
+    "year": 1968,
+    "genre": "Terror",
+    "director": "George A.Romero",
+    "homeRecorded": false
+  },
+  {
+    "id": "322",
+    "title": "La invasión de los ultracuerpos-(Invasion of the body snatchers)",
+    "year": 1978,
+    "genre": "Terror",
+    "director": "Philip Kaufman",
+    "homeRecorded": false
+  },
+  {
+    "id": "323",
+    "title": "El ente - (The entity)",
+    "year": 1976,
+    "genre": "Terror",
+    "director": "Sidney J.Furie",
+    "homeRecorded": false
+  },
+  {
+    "id": "324",
+    "title": "2.001: una odisea del espacio - (2001, a espace odyssey)",
+    "year": 1968,
+    "genre": "C.Ficción",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "325",
+    "title": "Blade Runner - (Blade Runner)",
+    "year": 1982,
+    "genre": "C.Ficción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "326",
+    "title": "Desafío total - (Total recall)",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "327",
+    "title": "La guerra de los mundos - (The war of the worlds)",
+    "year": 1953,
+    "genre": "C.Ficción",
+    "director": "Byron Haskin",
+    "homeRecorded": false
+  },
+  {
+    "id": "328",
+    "title": "Encuentros en la 3ª Fase-(Close encounters of the third King)",
+    "year": 1977,
+    "genre": "C.Ficción",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "329",
+    "title": "Mad Max, salvajes de autopista - (Mad Max)",
+    "year": 1978,
+    "genre": "C.Ficción",
+    "director": "George Miller",
+    "homeRecorded": false
+  },
+  {
+    "id": "330",
+    "title": "Star Trek: la película.La conquista del espacio - (Star Trek)",
+    "year": 1979,
+    "genre": "C.Ficción",
+    "director": "Robert Wise",
+    "homeRecorded": false
+  },
+  {
+    "id": "331",
+    "title": "La humanidad en peligro - (Them)",
+    "year": 1954,
+    "genre": "C.Ficción",
+    "director": "Gordon Douglas",
+    "homeRecorded": false
+  },
+  {
+    "id": "332",
+    "title": "Robocop - (Robocop)",
+    "year": 1987,
+    "genre": "Acción",
+    "director": "Paul Verhoeven",
+    "homeRecorded": false
+  },
+  {
+    "id": "333",
+    "title": "Reanimator - (Re-Animator)",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Stuart Gordon",
+    "homeRecorded": false
+  },
+  {
+    "id": "334",
+    "title": "Calles de fuego - (Streets of fire)",
+    "year": 1984,
+    "genre": "C.Ficción",
+    "director": "Walter Hill",
+    "homeRecorded": false
+  },
+  {
+    "id": "335",
+    "title": "En los límites de la realidad - (Twilight zone. The movie)",
+    "year": 1983,
+    "genre": "C.Ficción",
+    "director": "John Landis",
+    "homeRecorded": false
+  },
+  {
+    "id": "336",
+    "title": "Línea mortal - (Flatliners)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Joel Schumacher",
+    "homeRecorded": false
+  },
+  {
+    "id": "337",
+    "title": "Perseguido - (The running man)",
+    "year": 1987,
+    "genre": "Aventuras",
+    "director": "Paul Michel Glaser",
+    "homeRecorded": false
+  },
+  {
+    "id": "338",
+    "title": "Communion - (Communion)",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Philippe Mora",
+    "homeRecorded": false
+  },
+  {
+    "id": "339",
+    "title": "Darkman - (Darkman)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Sam Raimi",
+    "homeRecorded": false
+  },
+  {
+    "id": "340",
+    "title": "Las aventuras del Barón Munchausen-(The adventures of Bar.Mun.)",
+    "year": 1988,
+    "genre": "C.Ficción",
+    "director": "Terry Gilliam",
+    "homeRecorded": false
+  },
+  {
+    "id": "341",
+    "title": "La mujer y el monstruo",
+    "year": 1954,
+    "genre": "C.Ficción",
+    "director": "Jack Arnold",
+    "homeRecorded": false
+  },
+  {
+    "id": "342",
+    "title": "Cuentos asombrosos",
+    "year": 1985,
+    "genre": "Aventuras",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "343",
+    "title": "Atmósfera cero",
+    "year": 1981,
+    "genre": "C.Ficción",
+    "director": "Peter Hyams",
+    "homeRecorded": false
+  },
+  {
+    "id": "344",
+    "title": "Akira - (Akira)",
+    "year": 1988,
+    "genre": "C.Ficción",
+    "director": "Katsuhiro Ôtomo",
+    "homeRecorded": false
+  },
+  {
+    "id": "345",
+    "title": "Willow - (Willow)",
+    "year": 1988,
+    "genre": "C.Ficción",
+    "director": "Ron Howard",
+    "homeRecorded": false
+  },
+  {
+    "id": "346",
+    "title": "El hombre invisible",
+    "year": 1933,
+    "genre": "C.Ficción",
+    "director": "James Whale",
+    "homeRecorded": false
+  },
+  {
+    "id": "347",
+    "title": "Legend - (Legend)",
+    "year": 1985,
+    "genre": "C.Ficción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "348",
+    "title": "Leviathan. El demonio del abismo - (Leviathan)",
+    "year": 1989,
+    "genre": "Thriller",
+    "director": "George P.Cosmatos",
+    "homeRecorded": false
+  },
+  {
+    "id": "349",
+    "title": "Dark Angel",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Craig R. Baxley",
+    "homeRecorded": false
+  },
+  {
+    "id": "350",
+    "title": "Frankenstein (de Mary Shelley)-(Mary Shelley's Frankenstein)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Kenneth Branagh",
+    "homeRecorded": false
+  },
+  {
+    "id": "351",
+    "title": "Rollerball - (Rollerball)",
+    "year": 1975,
+    "genre": "C.Ficción",
+    "director": "Norman Jewison",
+    "homeRecorded": false
+  },
+  {
+    "id": "352",
+    "title": "Scanners - (Scanners)",
+    "year": 1981,
+    "genre": "C.Ficción",
+    "director": "David Cronenberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "353",
+    "title": "Farenheit 451 - (Farenheit 451)",
+    "year": 1966,
+    "genre": "C.Ficción",
+    "director": "François Truffaut",
+    "homeRecorded": false
+  },
+  {
+    "id": "354",
+    "title": "Brazil - (Brazil)",
+    "year": 1985,
+    "genre": "C.Ficción",
+    "director": "Terry Gilliam",
+    "homeRecorded": false
+  },
+  {
+    "id": "355",
+    "title": "TXH 1138 - (TXH 1138)",
+    "year": 1971,
+    "genre": "C.Ficción",
+    "director": "George Lucas",
+    "homeRecorded": false
+  },
+  {
+    "id": "356",
+    "title": "Barbarella. La Venus del Espacio",
+    "year": 1968,
+    "genre": "C.Ficción",
+    "director": "Roger Vadim",
+    "homeRecorded": false
+  },
+  {
+    "id": "357",
+    "title": "Temblores",
+    "year": 1990,
+    "genre": "C.Ficción",
+    "director": "Ron Underwood",
+    "homeRecorded": false
+  },
+  {
+    "id": "358",
+    "title": "Exploradores - (Explorers)",
+    "year": 1985,
+    "genre": "C.Ficción",
+    "director": "Joe Dante",
+    "homeRecorded": false
+  },
+  {
+    "id": "359",
+    "title": "Dune - (Dune)",
+    "year": 1984,
+    "genre": "C.Ficción",
+    "director": "David Lynch",
+    "homeRecorded": false
+  },
+  {
+    "id": "360",
+    "title": "La invasión de los ladrones de cuerpos",
+    "year": 1994,
+    "genre": "C.Ficción",
+    "director": "Abel Ferrara",
+    "homeRecorded": false
+  },
+  {
+    "id": "361",
+    "title": "El síndrome de China - (The China syndrome)",
+    "year": 1979,
+    "genre": "C.Ficción",
+    "director": "James Bridges",
+    "homeRecorded": false
+  },
+  {
+    "id": "362",
+    "title": "El síndrome de China - (The China syndrome)",
+    "year": 1979,
+    "genre": "C.Ficción",
+    "director": "James Bridges",
+    "homeRecorded": false
+  },
+  {
+    "id": "363",
+    "title": "Soldado Universal - (Universal soldier)",
+    "year": 1992,
+    "genre": "Acción",
+    "director": "Ronald Emmerich",
+    "homeRecorded": false
+  },
+  {
+    "id": "364",
+    "title": "Doble impacto - (Double impact)",
+    "year": 1991,
+    "genre": "Acción",
+    "director": "Sheldon Lettich",
+    "homeRecorded": false
+  },
+  {
+    "id": "365",
+    "title": "Le llaman Bodhi - (Point break)",
+    "year": 1991,
+    "genre": "Acción",
+    "director": "Kathryn Bigelow",
+    "homeRecorded": false
+  },
+  {
+    "id": "366",
+    "title": "Belle Epoque",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Fernando Trueba",
+    "homeRecorded": false
+  },
+  {
+    "id": "367",
+    "title": "Mujeres al borde de un ataque de nervios",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "368",
+    "title": "Jamón, Jamón",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Bigas Luna",
+    "homeRecorded": false
+  },
+  {
+    "id": "369",
+    "title": "Amantes",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "370",
+    "title": "Acción mutante",
+    "year": 1993,
+    "genre": "C.Ficción",
+    "director": "Alex De la Iglesia",
+    "homeRecorded": false
+  },
+  {
+    "id": "371",
+    "title": "Atame!",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "372",
+    "title": "El amante bilingüe",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "373",
+    "title": "El maestro de esgrima",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Pedro Olea",
+    "homeRecorded": false
+  },
+  {
+    "id": "374",
+    "title": "Por qué lo llaman amor cuando quieren decir sexo?",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Manuel Gómez Pereira",
+    "homeRecorded": false
+  },
+  {
+    "id": "375",
+    "title": "Ay, Carmela!",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Carlos Saura",
+    "homeRecorded": false
+  },
+  {
+    "id": "376",
+    "title": "Las cosas del querer",
+    "year": 1,
+    "genre": "Drama",
+    "director": "Jaime Chávarri",
+    "homeRecorded": false
+  },
+  {
+    "id": "377",
+    "title": "Sé infiel y no mires con quién",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "Fernando Trueba",
+    "homeRecorded": false
+  },
+  {
+    "id": "378",
+    "title": "Alas de mariposa",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Juanma Bajo Ulloa",
+    "homeRecorded": false
+  },
+  {
+    "id": "379",
+    "title": "Amo tu cama rica",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Emilio Martínez Lázaro",
+    "homeRecorded": false
+  },
+  {
+    "id": "380",
+    "title": "La Ley del deseo",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "381",
+    "title": "Las edades de Lulú",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Bigas Luna",
+    "homeRecorded": false
+  },
+  {
+    "id": "382",
+    "title": "La muerte de Mikel",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "Imanol Uribe",
+    "homeRecorded": false
+  },
+  {
+    "id": "383",
+    "title": "El Lute, camina o revienta",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "384",
+    "title": "Orquesta Club Virginia",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Manuel Iborra",
+    "homeRecorded": false
+  },
+  {
+    "id": "385",
+    "title": "Salsa rosa",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Manuel Gómez Pereira",
+    "homeRecorded": false
+  },
+  {
+    "id": "386",
+    "title": "El año de las luces",
+    "year": 1986,
+    "genre": "Drama",
+    "director": "Fernando Trueba",
+    "homeRecorded": false
+  },
+  {
+    "id": "387",
+    "title": "Qué he hecho yo para merecer ésto?",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "388",
+    "title": "Demasiado corazón",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Eduardo Campoy",
+    "homeRecorded": false
+  },
+  {
+    "id": "389",
+    "title": "El sueño del mono loco - (Le réve du singe fou)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Fernando Trueba",
+    "homeRecorded": false
+  },
+  {
+    "id": "390",
+    "title": "Rosa-Rosae",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Fernando Colomo",
+    "homeRecorded": false
+  },
+  {
+    "id": "391",
+    "title": "La Reina anónima",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Gonzalo Suárez",
+    "homeRecorded": false
+  },
+  {
+    "id": "392",
+    "title": "Tierno verano de lujurias y azoteas",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Jaime Chávarri",
+    "homeRecorded": false
+  },
+  {
+    "id": "393",
+    "title": "Intruso",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "394",
+    "title": "Matador",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "395",
+    "title": "Yo me bajo en la próxima ... ¿y Usted?",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "José Sacristán",
+    "homeRecorded": false
+  },
+  {
+    "id": "396",
+    "title": "El Dorado",
+    "year": 1988,
+    "genre": "Epica",
+    "director": "Carlos Saura",
+    "homeRecorded": false
+  },
+  {
+    "id": "397",
+    "title": "Remando al viento",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Gonzalo Suárez",
+    "homeRecorded": false
+  },
+  {
+    "id": "398",
+    "title": "Si te dicen que caí",
+    "year": 1989,
+    "genre": "Thriller",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "399",
+    "title": "La noche más larga",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "J.Luis García Sánchez",
+    "homeRecorded": false
+  },
+  {
+    "id": "400",
+    "title": "Soldadito Español",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Antonio Giménez-Rico",
+    "homeRecorded": false
+  },
+  {
+    "id": "401",
+    "title": "El Lute II: Mañana seré libre",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Vicente Aranda",
+    "homeRecorded": false
+  },
+  {
+    "id": "402",
+    "title": "Después del sueño",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Mario Camús",
+    "homeRecorded": false
+  },
+  {
+    "id": "403",
+    "title": "El disputado voto del Señor Cayo",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Antonio Giménez-Rico",
+    "homeRecorded": false
+  },
+  {
+    "id": "404",
+    "title": "El Padrino Parte I (versión épica) - (The godfather epic I)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "405",
+    "title": "El Padrino Parte II (versión épica) - (The godfather epic II)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "406",
+    "title": "El Padrino Parte III (versión épica) - (The godfather epic III)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "407",
+    "title": "Lo que el viento se llevó. Parte I - (Gone with the wind. Part I)",
+    "year": 1939,
+    "genre": "Drama",
+    "director": "Victor Fleming",
+    "homeRecorded": false
+  },
+  {
+    "id": "408",
+    "title": "Lo que el viento se llevó. Parte II - (Gone with the wind. Part II)",
+    "year": 1939,
+    "genre": "Drama",
+    "director": "Victor Fleming",
+    "homeRecorded": false
+  },
+  {
+    "id": "409",
+    "title": "Todo sobre mi madre",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "410",
+    "title": "El Gatopardo - (Il gattopardo)",
+    "year": 1963,
+    "genre": "Drama",
+    "director": "Luchino Visconti",
+    "homeRecorded": false
+  },
+  {
+    "id": "411",
+    "title": "Rey David - (King David)",
+    "year": 1985,
+    "genre": "Histórica",
+    "director": "Bruce Beresford",
+    "homeRecorded": false
+  },
+  {
+    "id": "412",
+    "title": "Ben Hur - (Ben Hur)",
+    "year": 1959,
+    "genre": "Drama",
+    "director": "William Wyler",
+    "homeRecorded": false
+  },
+  {
+    "id": "413",
+    "title": "Espartaco I - (Spartacus)",
+    "year": 1961,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "414",
+    "title": "Espartaco II - (Spartacus)",
+    "year": 1961,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "415",
+    "title": "La última tentación de Cristo - (The last temptation of Christ)",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "homeRecorded": false
+  },
+  {
+    "id": "416",
+    "title": "La historia más grande jamás contada I - (The greatest story ever told)",
+    "year": 1965,
+    "genre": "Drama",
+    "director": "George Stevens",
+    "homeRecorded": false
+  },
+  {
+    "id": "417",
+    "title": "La historia más grande jamás contada II - (The greatest story ever told)",
+    "year": 1965,
+    "genre": "Drama",
+    "director": "George Stevens",
+    "homeRecorded": false
+  },
+  {
+    "id": "418",
+    "title": "La vida de Brian - (Life of Brian)",
+    "year": 1979,
+    "genre": "Comedia",
+    "director": "Terry Jones",
+    "homeRecorded": false
+  },
+  {
+    "id": "419",
+    "title": "Jesucristo superstar - (Jesus Christ superstar)",
+    "year": 1973,
+    "genre": "Musical",
+    "director": "Norman Jewinson",
+    "homeRecorded": false
+  },
+  {
+    "id": "420",
+    "title": "La caida del Imperio romano I - (The fall of the Roman Empire)",
+    "year": 1964,
+    "genre": "Drama",
+    "director": "Anthony Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "421",
+    "title": "La caida del Imperio romano II - (The fall of the Roman Empire)",
+    "year": 1964,
+    "genre": "Drama",
+    "director": "Anthony Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "422",
+    "title": "Excalibur - (Excalibur)",
+    "year": 1981,
+    "genre": "Acción",
+    "director": "John Boorman",
+    "homeRecorded": false
+  },
+  {
+    "id": "423",
+    "title": "Mahoma, el mensajero de Dios I - (The message)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Moustapha Akkad",
+    "homeRecorded": false
+  },
+  {
+    "id": "424",
+    "title": "Mahoma, el mensajero de Dios II - (The message)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Moustapha Akkad",
+    "homeRecorded": false
+  },
+  {
+    "id": "425",
+    "title": "Macbeth - (Macbeth)",
+    "year": 1948,
+    "genre": "Drama",
+    "director": "Orson Welles",
+    "homeRecorded": false
+  },
+  {
+    "id": "426",
+    "title": "El Cid I",
+    "year": 1961,
+    "genre": "Romance",
+    "director": "Anthony Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "427",
+    "title": "El Cid II",
+    "year": 1961,
+    "genre": "Romance",
+    "director": "Anthony Mann",
+    "homeRecorded": false
+  },
+  {
+    "id": "428",
+    "title": "Gengis Khan - (Gengis Khan)",
+    "year": 1965,
+    "genre": "Aventuras",
+    "director": "Henry Levin",
+    "homeRecorded": false
+  },
+  {
+    "id": "429",
+    "title": "Hermano sol,hermana luna - (Brother sun,sister moon)(Fratello sole,sorella luna)",
+    "year": 1972,
+    "genre": "Drama",
+    "director": "Franco Zefirelli",
+    "homeRecorded": false
+  },
+  {
+    "id": "430",
+    "title": "Ran - (Ran)",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Akira Kurosawa",
+    "homeRecorded": false
+  },
+  {
+    "id": "431",
+    "title": "Aguirre, la cólera de Dios - (Aguirre, der zorn gottes)",
+    "year": 1972,
+    "genre": "Aventuras",
+    "director": "Werner Herzog",
+    "homeRecorded": false
+  },
+  {
+    "id": "432",
+    "title": "El tormento y el éxtasis - (The agony and the ecstasy)",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Carol Reed",
+    "homeRecorded": false
+  },
+  {
+    "id": "433",
+    "title": "Un hombre para la eternidad - (A Man for all seasons)",
+    "year": 1966,
+    "genre": "Drama",
+    "director": "Fred Zinnemann",
+    "homeRecorded": false
+  },
+  {
+    "id": "434",
+    "title": "Ana de los mil días - (Anne of the thousands days)",
+    "year": 1969,
+    "genre": "Drama",
+    "director": "Charles Jarrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "435",
+    "title": "Cromwell - (Cromwell)",
+    "year": 1970,
+    "genre": "Drama",
+    "director": "Ken Hughes",
+    "homeRecorded": false
+  },
+  {
+    "id": "436",
+    "title": "Farinelli - (Farinelli. il castrato)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Gérard Corbiau",
+    "homeRecorded": false
+  },
+  {
+    "id": "437",
+    "title": "Esquilache",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Josefina Molina",
+    "homeRecorded": false
+  },
+  {
+    "id": "438",
+    "title": "Rebelión a bordo - (Mutiny on the Bounty)",
+    "year": 1962,
+    "genre": "Aventuras",
+    "director": "Lewis Milestone",
+    "homeRecorded": false
+  },
+  {
+    "id": "439",
+    "title": "Tres lanceros bengalíes - (The lives of a Bengal lancer)",
+    "year": 1935,
+    "genre": "Aventuras",
+    "director": "Henry Hathaway",
+    "homeRecorded": false
+  },
+  {
+    "id": "440",
+    "title": "El patriota I - (The patriot)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Roland Emmerich",
+    "homeRecorded": false
+  },
+  {
+    "id": "441",
+    "title": "El patriota II - (The patriot)",
+    "year": 2000,
+    "genre": "Acción",
+    "director": "Roland Emmerich",
+    "homeRecorded": false
+  },
+  {
+    "id": "442",
+    "title": "Guerra y paz I -  (War and peace)",
+    "year": 1956,
+    "genre": "Bélica",
+    "director": "King Vidor",
+    "homeRecorded": false
+  },
+  {
+    "id": "443",
+    "title": "Guerra y paz II - (War and peace)",
+    "year": 1956,
+    "genre": "Bélica",
+    "director": "King Vidor",
+    "homeRecorded": false
+  },
+  {
+    "id": "444",
+    "title": "Los duelistas - (The duellists)",
+    "year": 1977,
+    "genre": "Acción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "445",
+    "title": "Oliver! - (Oliver!)",
+    "year": 1968,
+    "genre": "Musical",
+    "director": "Carol Reed",
+    "homeRecorded": false
+  },
+  {
+    "id": "446",
+    "title": "Amistad - (Amistad)",
+    "year": 1997,
+    "genre": "Drama",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "447",
+    "title": "Un horizonte muy lejano - (Far and away)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Ron Howard",
+    "homeRecorded": false
+  },
+  {
+    "id": "448",
+    "title": "Pequeño gran hombre - (Little big man)",
+    "year": 1970,
+    "genre": "Comedia",
+    "director": "Arthur Penn",
+    "homeRecorded": false
+  },
+  {
+    "id": "449",
+    "title": "La mujer del teniente francés - (The french Lieuyenant's woman)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Karel Reisz",
+    "homeRecorded": false
+  },
+  {
+    "id": "450",
+    "title": "La edad de la inocencia - (The age of innocence)",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "homeRecorded": false
+  },
+  {
+    "id": "451",
+    "title": "El hombre que pudo reinar - (The man who would be king)",
+    "year": 1975,
+    "genre": "Aventuras",
+    "director": "John Huston",
+    "homeRecorded": false
+  },
+  {
+    "id": "452",
+    "title": "Tiempos de gloria - (Glory)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Edward Zwick",
+    "homeRecorded": false
+  },
+  {
+    "id": "453",
+    "title": "Dos hombres y un destino - (Butch Cassidy and the Sundance Kid)",
+    "year": 1969,
+    "genre": "Western",
+    "director": "George Roy Hill",
+    "homeRecorded": false
+  },
+  {
+    "id": "454",
+    "title": "El hombre que mató a Liberty Valance - (The man who shot Liberty Valance)",
+    "year": 1962,
+    "genre": "Western",
+    "director": "John Ford",
+    "homeRecorded": false
+  },
+  {
+    "id": "455",
+    "title": "Tombstone. La leyenda de Wyatt Earp - (Tombstone)",
+    "year": 1993,
+    "genre": "Western",
+    "director": "George P.Cosmatos",
+    "homeRecorded": false
+  },
+  {
+    "id": "456",
+    "title": "Frankenstein (de Mary Shelley) - (Mary Shelley's Frankenstein)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Kenneth Branagh",
+    "homeRecorded": false
+  },
+  {
+    "id": "457",
+    "title": "Prisioneros del honor - (Prisoner of honor)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Ken Russell",
+    "homeRecorded": false
+  },
+  {
+    "id": "458",
+    "title": "Primera plana - (The front page)",
+    "year": 1974,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "459",
+    "title": "Ciudad mágica - (Magic town)",
+    "year": 1947,
+    "genre": "Comedia",
+    "director": "William A.Wellman",
+    "homeRecorded": false
+  },
+  {
+    "id": "460",
+    "title": "Patrimonio Nacional",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Luis García Berlanga",
+    "homeRecorded": false
+  },
+  {
+    "id": "461",
+    "title": "Cinema Paradiso - (Nuovo Cinema Paradiso)",
+    "year": 1988,
+    "genre": "Drama",
+    "director": "Giuseppe Tomatore",
+    "homeRecorded": false
+  },
+  {
+    "id": "462",
+    "title": "Calle mayor",
+    "year": 1956,
+    "genre": "Drama",
+    "director": "Juan Antonio Bardem",
+    "homeRecorded": false
+  },
+  {
+    "id": "463",
+    "title": "You're the one (una historia de entonces)",
+    "year": 2000,
+    "genre": "Drama",
+    "director": "José Luis Garci",
+    "homeRecorded": false
+  },
+  {
+    "id": "464",
+    "title": "Hindenburg - (The Hindenburg)",
+    "year": 1975,
+    "genre": "Thriller",
+    "director": "Robert Wise",
+    "homeRecorded": false
+  },
+  {
+    "id": "465",
+    "title": "Arco de triunfo - (Arch of triumph)",
+    "year": 1948,
+    "genre": "Drama",
+    "director": "Lewis Milestone",
+    "homeRecorded": false
+  },
+  {
+    "id": "466",
+    "title": "Virtuosity - (Virtuosity)",
+    "year": 1995,
+    "genre": "Acción",
+    "director": "Brett Leonard",
+    "homeRecorded": false
+  },
+  {
+    "id": "467",
+    "title": "Cincuenta y cinco días en Pekín I - (55 days at Peking)",
+    "year": 1963,
+    "genre": "Drama",
+    "director": "Nicholas Ray",
+    "homeRecorded": false
+  },
+  {
+    "id": "468",
+    "title": "Cincuenta y cinco días en Pekín II - (55 days at Peking)",
+    "year": 1963,
+    "genre": "Drama",
+    "director": "Nicholas Ray",
+    "homeRecorded": false
+  },
+  {
+    "id": "469",
+    "title": "Salvar al soldado Ryan - (Saving private Ryan)",
+    "year": 1998,
+    "genre": "Bélica",
+    "director": "Steven Spielberg",
+    "homeRecorded": false
+  },
+  {
+    "id": "470",
+    "title": "Trece días - (Thirteen days)",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Roger Donaldson",
+    "homeRecorded": false
+  },
+  {
+    "id": "471",
+    "title": "La delgada línea roja - (The thin red line)",
+    "year": 1998,
+    "genre": "Bélica",
+    "director": "Terrence Malick",
+    "homeRecorded": false
+  },
+  {
+    "id": "472",
+    "title": "Estado de sitio - (The siege)",
+    "year": 1998,
+    "genre": "Thriller",
+    "director": "Edward Zwick",
+    "homeRecorded": false
+  },
+  {
+    "id": "473",
+    "title": "Pasaje a la India - (A passage to India)",
+    "year": 1984,
+    "genre": "Drama",
+    "director": "David Lean",
+    "homeRecorded": false
+  },
+  {
+    "id": "474",
+    "title": "El Gran Gatsby - (The great Gatsby)",
+    "year": 1974,
+    "genre": "Drama",
+    "director": "Jack Clayton",
+    "homeRecorded": false
+  },
+  {
+    "id": "475",
+    "title": "Doctor Zhivago - (Doctor Zhivago)",
+    "year": 1965,
+    "genre": "Drama",
+    "director": "David Lean",
+    "homeRecorded": false
+  },
+  {
+    "id": "476",
+    "title": "Gallipoli - (Gallipoli)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Peter Weir",
+    "homeRecorded": false
+  },
+  {
+    "id": "477",
+    "title": "Uno de los nuestros - (Goodfellas)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "homeRecorded": false
+  },
+  {
+    "id": "478",
+    "title": "El coleccionista de huesos - (The bone collector)",
+    "year": 1999,
+    "genre": "Misterio",
+    "director": "Phillip Noyce",
+    "homeRecorded": false
+  },
+  {
+    "id": "479",
+    "title": "Asesinato en 8 mm. - (Eight millimeter)",
+    "year": 1999,
+    "genre": "Thriller",
+    "director": "Joel Schumacher",
+    "homeRecorded": false
+  },
+  {
+    "id": "480",
+    "title": "De aquí a la eternidad - (From here to eternity)",
+    "year": 1953,
+    "genre": "Drama",
+    "director": "Fred Zinnemann",
+    "homeRecorded": false
+  },
+  {
+    "id": "481",
+    "title": "La gran evasión - (The great escape)",
+    "year": 1963,
+    "genre": "Bélica",
+    "director": "John Sturges",
+    "homeRecorded": false
+  },
+  {
+    "id": "482",
+    "title": "El espía que surgió del frío - (The spy who came in from the cold)",
+    "year": 1965,
+    "genre": "Thriller",
+    "director": "Martin Ritt",
+    "homeRecorded": false
+  },
+  {
+    "id": "483",
+    "title": "Nixon - (Nixon)",
+    "year": 1995,
+    "genre": "Drama",
+    "director": "Oliver Stone",
+    "homeRecorded": false
+  },
+  {
+    "id": "484",
+    "title": "La chaqueta metálica - (Full metal jacket)",
+    "year": 1987,
+    "genre": "Bélica",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "485",
+    "title": "Habana - (Havana)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Sidney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "486",
+    "title": "Black Rain - (Black rain)",
+    "year": 1989,
+    "genre": "Acción",
+    "director": "Ridley Scott",
+    "homeRecorded": false
+  },
+  {
+    "id": "487",
+    "title": "Sol naciente - (Rising sun)",
+    "year": 1993,
+    "genre": "Acción",
+    "director": "Philip Kaufman",
+    "homeRecorded": false
+  },
+  {
+    "id": "488",
+    "title": "Único testigo - (Witness)",
+    "year": 1985,
+    "genre": "Thriller",
+    "director": "Peter Weir",
+    "homeRecorded": false
+  },
+  {
+    "id": "489",
+    "title": "Veredicto final - (The veredict)",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "Sidney Lumet",
+    "homeRecorded": false
+  },
+  {
+    "id": "490",
+    "title": "La naranja mecánica - (A Clockwork orange)",
+    "year": 1971,
+    "genre": "Thriller",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "491",
+    "title": "Elegidos para la gloria - (The right stuff)",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Philip Kaufman",
+    "homeRecorded": false
+  },
+  {
+    "id": "492",
+    "title": "Independence day - (Independence day)",
+    "year": 1996,
+    "genre": "Acción",
+    "director": "Roland Emmerich",
+    "homeRecorded": false
+  },
+  {
+    "id": "493",
+    "title": "La milla verde - (The green mile)",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "homeRecorded": false
+  },
+  {
+    "id": "494",
+    "title": "Novecento I - (Novecento I)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "homeRecorded": false
+  },
+  {
+    "id": "495",
+    "title": "Novecento II - (Novecento II)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "homeRecorded": false
+  },
+  {
+    "id": "496",
+    "title": "Titanic - (Titanic)",
+    "year": 1998,
+    "genre": "Drama",
+    "director": "James Cameron",
+    "homeRecorded": false
+  },
+  {
+    "id": "497",
+    "title": "Ghandi I - (Gandhi I)",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "Richard Attenborough",
+    "homeRecorded": false
+  },
+  {
+    "id": "498",
+    "title": "Ghandi II - (Gandhi II)",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "Richard Attenborough",
+    "homeRecorded": false
+  },
+  {
+    "id": "499",
+    "title": "Ciudadano Kane - (Citizen Kane)",
+    "year": 1941,
+    "genre": "Drama",
+    "director": "Orson Welles",
+    "homeRecorded": false
+  },
+  {
+    "id": "500",
+    "title": "Chaplin  - (Chaplin)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Richard Attenborough",
+    "homeRecorded": false
+  },
+  {
+    "id": "501",
+    "title": "Nicolás y Alejandra - (Nicholas and Alexandra)",
+    "year": 1971,
+    "genre": "Drama",
+    "director": "Sam Spiegel",
+    "homeRecorded": false
+  },
+  {
+    "id": "502",
+    "title": "Rojos - (Reds)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Warren Beatty",
+    "homeRecorded": false
+  },
+  {
+    "id": "503",
+    "title": "Senderos de gloria - (Paths of glory)",
+    "year": 1957,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "homeRecorded": false
+  },
+  {
+    "id": "504",
+    "title": "Ragtime - (Ragtime)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Milos Forman",
+    "homeRecorded": false
+  },
+  {
+    "id": "505",
+    "title": "El crímen de Cuenca",
+    "year": 1979,
+    "genre": "Drama",
+    "director": "Pilar Miró",
+    "homeRecorded": false
+  },
+  {
+    "id": "506",
+    "title": "La verdad sobre el caso Savolta",
+    "year": 1979,
+    "genre": "Drama",
+    "director": "Antonio Drove",
+    "homeRecorded": false
+  },
+  {
+    "id": "507",
+    "title": "Sacco e Vanzetti - (Sacco e Vanzetti)",
+    "year": 1971,
+    "genre": "Drama",
+    "director": "Giuliano Montaldo",
+    "homeRecorded": false
+  },
+  {
+    "id": "508",
+    "title": "Viva Zapata! - (Viva Zapata!)",
+    "year": 1952,
+    "genre": "Drama",
+    "director": "Elia Kazan",
+    "homeRecorded": false
+  },
+  {
+    "id": "509",
+    "title": "América, América - (America, America)",
+    "year": 1963,
+    "genre": "Drama",
+    "director": "Elia Kazan",
+    "homeRecorded": false
+  },
+  {
+    "id": "510",
+    "title": "Las uvas de la ira - (The grapes of wrath)",
+    "year": 1940,
+    "genre": "Drama",
+    "director": "John Ford",
+    "homeRecorded": false
+  },
+  {
+    "id": "511",
+    "title": "Chinatown - (Chinatown)",
+    "year": 1974,
+    "genre": "Thriller",
+    "director": "Roman Polanski",
+    "homeRecorded": false
+  },
+  {
+    "id": "512",
+    "title": "La matanza del día de San Valentín - (The St.Valentine's day massacre!)",
+    "year": 1967,
+    "genre": "Thriller",
+    "director": "Howard Browne",
+    "homeRecorded": false
+  },
+  {
+    "id": "513",
+    "title": "Los intocables de Elliot Ness - (The untouchables)",
+    "year": 1987,
+    "genre": "Thriller",
+    "director": "Brian De Palma",
+    "homeRecorded": false
+  },
+  {
+    "id": "514",
+    "title": "El asesinato de Trotsky - (The Assassination of Trotsky)",
+    "year": 1972,
+    "genre": "Drama",
+    "director": "Joseph Losey",
+    "homeRecorded": false
+  },
+  {
+    "id": "515",
+    "title": "El círculo del poder - (The inner circle)",
+    "year": 1991,
+    "genre": "Drama",
+    "director": "Andrei Konchalovsky",
+    "homeRecorded": false
+  },
+  {
+    "id": "516",
+    "title": "Ser o no ser - (To be or not to be)",
+    "year": 1942,
+    "genre": "Drama",
+    "director": "Ernst Lubitsch",
+    "homeRecorded": false
+  },
+  {
+    "id": "517",
+    "title": "Las bicicletas son para el verano",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Jaime Chávarri",
+    "homeRecorded": false
+  },
+  {
+    "id": "518",
+    "title": "La vaquilla",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Luis García Berlanga",
+    "homeRecorded": false
+  },
+  {
+    "id": "519",
+    "title": "Roma, ciudad abierta - (Roma cittá aperta)",
+    "year": 1945,
+    "genre": "Drama",
+    "director": "Roberto Rossellini",
+    "homeRecorded": false
+  },
+  {
+    "id": "520",
+    "title": "Creadores de sombras - (Shadows makers)",
+    "year": 1942,
+    "genre": "Drama",
+    "director": "Roland Joffé",
+    "homeRecorded": false
+  },
+  {
+    "id": "521",
+    "title": "El día más largo - (The longest day)",
+    "year": 1962,
+    "genre": "Bélica",
+    "director": "Ken Annakin/A.Marton",
+    "homeRecorded": false
+  },
+  {
+    "id": "522",
+    "title": "Patton - (Patton)",
+    "year": 1970,
+    "genre": "Bélica",
+    "director": "Franklin J.Schaffner",
+    "homeRecorded": false
+  },
+  {
+    "id": "523",
+    "title": "Rommel el zorro del desierto - (The desert fox)",
+    "year": 1952,
+    "genre": "Bélica",
+    "director": "Henry Hathaway",
+    "homeRecorded": false
+  },
+  {
+    "id": "524",
+    "title": "El diario de Ana Frank - (The diary of Anne Frank)",
+    "year": 1959,
+    "genre": "Bélica",
+    "director": "George Stevens",
+    "homeRecorded": false
+  },
+  {
+    "id": "525",
+    "title": "El tambor de hojalata - (Die Blechtrommel)",
+    "year": 1979,
+    "genre": "Bélica",
+    "director": "Volker Schlöndorff",
+    "homeRecorded": false
+  },
+  {
+    "id": "526",
+    "title": "Vencedores o vencidos? - (Judgement at Nuremberg)",
+    "year": 1961,
+    "genre": "Bélica",
+    "director": "Stanley Kramer",
+    "homeRecorded": false
+  },
+  {
+    "id": "527",
+    "title": "Los mejores años de nuestra vida - (The best years of our lives)",
+    "year": 1946,
+    "genre": "Drama",
+    "director": "William Wyler",
+    "homeRecorded": false
+  },
+  {
+    "id": "528",
+    "title": "El tercer hombre - (The third man)",
+    "year": 1949,
+    "genre": "Drama",
+    "director": "Carol Reed",
+    "homeRecorded": false
+  },
+  {
+    "id": "529",
+    "title": "Uno, dos, tres - (One, two, three)",
+    "year": 1961,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "530",
+    "title": "Gilda - (Gilda)",
+    "year": 1946,
+    "genre": "Drama",
+    "director": "Charles Vidor",
+    "homeRecorded": false
+  },
+  {
+    "id": "531",
+    "title": "Odessa - (The Odessa file)",
+    "year": 1974,
+    "genre": "Bélica",
+    "director": "Ronald Neame",
+    "homeRecorded": false
+  },
+  {
+    "id": "532",
+    "title": "La batalla de Argel - (La battaglia di Algeri)",
+    "year": 1966,
+    "genre": "Bélica",
+    "director": "Gillo Pontecorvo",
+    "homeRecorded": false
+  },
+  {
+    "id": "533",
+    "title": "Chacal - (The day of the Chacal)",
+    "year": 1973,
+    "genre": "Thriller",
+    "director": "Fred Zinnemann",
+    "homeRecorded": false
+  },
+  {
+    "id": "534",
+    "title": "La caja china - (Chinese box)",
+    "year": 1997,
+    "genre": "Drama",
+    "director": "Wayne Wang",
+    "homeRecorded": false
+  },
+  {
+    "id": "535",
+    "title": "El político - (All the king's men)",
+    "year": 1949,
+    "genre": "Drama",
+    "director": "Robert Rossen",
+    "homeRecorded": false
+  },
+  {
+    "id": "536",
+    "title": "Tempestad sobre Washington - (Advise and consent)",
+    "year": 1962,
+    "genre": "Drama",
+    "director": "Otto Preminger",
+    "homeRecorded": false
+  },
+  {
+    "id": "537",
+    "title": "La tapadera - (The front)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Martin Ritt",
+    "homeRecorded": false
+  },
+  {
+    "id": "538",
+    "title": "La jauría humana - (The chase)",
+    "year": 1966,
+    "genre": "Drama",
+    "director": "Arthur Penn",
+    "homeRecorded": false
+  },
+  {
+    "id": "539",
+    "title": "La ley del silencio - (On the waterfront)",
+    "year": 1954,
+    "genre": "Drama",
+    "director": "Elia Kazan",
+    "homeRecorded": false
+  },
+  {
+    "id": "540",
+    "title": "F.I.S.T. - (F.I.S.T.)",
+    "year": 1978,
+    "genre": "Drama",
+    "director": "Norman Jewison",
+    "homeRecorded": false
+  },
+  {
+    "id": "541",
+    "title": "Los tres días del Condor - (Three days of the Condor)",
+    "year": 1975,
+    "genre": "Bélica",
+    "director": "Sydeny Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "542",
+    "title": "El verdugo",
+    "year": 1963,
+    "genre": "Drama",
+    "director": "Luis García Berlanga",
+    "homeRecorded": false
+  },
+  {
+    "id": "543",
+    "title": "Viridiana",
+    "year": 1961,
+    "genre": "Drama",
+    "director": "Luis Buñuel",
+    "homeRecorded": false
+  },
+  {
+    "id": "544",
+    "title": "La escopeta nacional",
+    "year": 1978,
+    "genre": "Comedia",
+    "director": "Luis García Berlanga",
+    "homeRecorded": false
+  },
+  {
+    "id": "545",
+    "title": "Buscando mi destino - (Easy Rider)",
+    "year": 1969,
+    "genre": "Drama",
+    "director": "Dennis Hopper",
+    "homeRecorded": false
+  },
+  {
+    "id": "546",
+    "title": "La rosa - (The rose)",
+    "year": 1979,
+    "genre": "Drama",
+    "director": "Mark Rydell",
+    "homeRecorded": false
+  },
+  {
+    "id": "547",
+    "title": "Apocalipse now - (Apocalipse now)",
+    "year": 1979,
+    "genre": "Bélica",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": false
+  },
+  {
+    "id": "548",
+    "title": "Che! - (Che!)",
+    "year": 1969,
+    "genre": "Drama",
+    "director": "Richard Fleiser",
+    "homeRecorded": false
+  },
+  {
+    "id": "549",
+    "title": "Kansas City - (Kansas City)",
+    "year": 1996,
+    "genre": "Comedia",
+    "director": "Robert Altman",
+    "homeRecorded": false
+  },
+  {
+    "id": "550",
+    "title": "American graffiti - (American graffiti)",
+    "year": 1973,
+    "genre": "Comedia",
+    "director": "George Lucas",
+    "homeRecorded": false
+  },
+  {
+    "id": "551",
+    "title": "The wonders - (That thing you do!)",
+    "year": 1996,
+    "genre": "Comedia",
+    "director": "Tom Hanks",
+    "homeRecorded": false
+  },
+  {
+    "id": "552",
+    "title": "Hair - (Hair)",
+    "year": 1979,
+    "genre": "Musical",
+    "director": "Milos Forman",
+    "homeRecorded": false
+  },
+  {
+    "id": "553",
+    "title": "Fiebre del sábado noche - (Saturday night fever)",
+    "year": 1978,
+    "genre": "Musical",
+    "director": "John Badham",
+    "homeRecorded": false
+  },
+  {
+    "id": "554",
+    "title": "Dos en la carretera - (Two fot the road)",
+    "year": 1966,
+    "genre": "Comedia",
+    "director": "Stanley Donen",
+    "homeRecorded": false
+  },
+  {
+    "id": "555",
+    "title": "Desayuno con diamantes - (Breakfast at Tiffany's)",
+    "year": 1961,
+    "genre": "Comedia",
+    "director": "Blake Edwards",
+    "homeRecorded": false
+  },
+  {
+    "id": "556",
+    "title": "Tal como eramos - (The way we were)",
+    "year": 1973,
+    "genre": "Comedia",
+    "director": "Sydney Pollack",
+    "homeRecorded": false
+  },
+  {
+    "id": "557",
+    "title": "El último tango en Paris - (Last tango in Paris)",
+    "year": 1972,
+    "genre": "Drama",
+    "director": "Bernardo Beryolucci",
+    "homeRecorded": false
+  },
+  {
+    "id": "558",
+    "title": "Operación ogro",
+    "year": 1979,
+    "genre": "Drama",
+    "director": "Gillo Pontecorvo",
+    "homeRecorded": false
+  },
+  {
+    "id": "559",
+    "title": "Siete días de Enero",
+    "year": 1978,
+    "genre": "Drama",
+    "director": "Juan Antonio Bardem",
+    "homeRecorded": false
+  },
+  {
+    "id": "560",
+    "title": "Arriba Azaña",
+    "year": 1978,
+    "genre": "Drama",
+    "director": "José María Gutiérrez",
+    "homeRecorded": false
+  },
+  {
+    "id": "561",
+    "title": "Fresa y chocolate",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Tomás Gutiérrez Alea",
+    "homeRecorded": false
+  },
+  {
+    "id": "562",
+    "title": "El síndrome de China - (The China Syndrome)",
+    "year": 1978,
+    "genre": "Drama",
+    "director": "James Bridges",
+    "homeRecorded": false
+  },
+  {
+    "id": "563",
+    "title": "Full Monty - (The Full monty)",
+    "year": 1997,
+    "genre": "Comedia",
+    "director": "Peter Cattaneo",
+    "homeRecorded": false
+  },
+  {
+    "id": "564",
+    "title": "Fahrenheit 451 - (Fahrenheit 451)",
+    "year": 1966,
+    "genre": "Drama",
+    "director": "François Truffaut",
+    "homeRecorded": false
+  },
+  {
+    "id": "565",
+    "title": "French Conection - (The french Connection)",
+    "year": 1971,
+    "genre": "Drama",
+    "director": "William Friedkin",
+    "homeRecorded": false
+  },
+  {
+    "id": "566",
+    "title": "El precio del poder - (Scarface)",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Brian De Palma",
+    "homeRecorded": false
+  },
+  {
+    "id": "567",
+    "title": "La marcha del millón de hombres - (Get on the bus)",
+    "year": 1996,
+    "genre": "Drama",
+    "director": "Spike Lee",
+    "homeRecorded": false
+  },
+  {
+    "id": "568",
+    "title": "Grita libertad - (Cry freedom)",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Richard Attenborough",
+    "homeRecorded": false
+  },
+  {
+    "id": "569",
+    "title": "Los perros de la guerra - (The dogs of war)",
+    "year": 1980,
+    "genre": "Bélica",
+    "director": "John Irvin",
+    "homeRecorded": false
+  },
+  {
+    "id": "570",
+    "title": "La casa Rusia - (The Russia house)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Fred Schepisi",
+    "homeRecorded": false
+  },
+  {
+    "id": "571",
+    "title": "Juego de patriotas - (Patriot games)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Phillip Noyce",
+    "homeRecorded": false
+  },
+  {
+    "id": "572",
+    "title": "Network -  (Network)",
+    "year": 1976,
+    "genre": "Drama",
+    "director": "Sidney Lumet",
+    "homeRecorded": false
+  },
+  {
+    "id": "573",
+    "title": "Manhattan - (Manhattan)",
+    "year": 1979,
+    "genre": "Drama",
+    "director": "Woody Allen",
+    "homeRecorded": false
+  },
+  {
+    "id": "574",
+    "title": "Trainspotting - (Trainspotting)",
+    "year": 1995,
+    "genre": "Drama",
+    "director": "Danny Boyle",
+    "homeRecorded": false
+  },
+  {
+    "id": "575",
+    "title": "Kika",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "Pedro Almodóvar",
+    "homeRecorded": false
+  },
+  {
+    "id": "576",
+    "title": "El Gran Dictador - (The Great Dictator)",
+    "year": 1940,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "577",
+    "title": "Tiempos modernos - (Modern Times)",
+    "year": 1935,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "578",
+    "title": "Luces de la Ciudad - (City Lights)",
+    "year": 1930,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "579",
+    "title": "La quimera del oro - (The Gold Rush)",
+    "year": 1925,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "580",
+    "title": "El Circo - (The Circus)",
+    "year": 1927,
+    "genre": "Comedia",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "581",
+    "title": "Candilejas - (Limelight)",
+    "year": 1952,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "582",
+    "title": "El Chico - (The Kid)",
+    "year": 1920,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "583",
+    "title": "Monsieur Verdoux - (Monsieur Verdoux)",
+    "year": 1947,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "584",
+    "title": "Una mujer de París - (A woman of Paris)",
+    "year": 1923,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "585",
+    "title": "Charlot en la calle de la paz - (Easy street)",
+    "year": 1917,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "586",
+    "title": "Día de paga - (Pay day)",
+    "year": 1922,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "587",
+    "title": "Un día de placer - (A day's pleasure)",
+    "year": 1919,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "588",
+    "title": "Un Rey en Nueva York - (A King in New York)",
+    "year": 1957,
+    "genre": "Drama",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "589",
+    "title": "El Conde - (The Count)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "590",
+    "title": "Vida de perro - (A dog's life)",
+    "year": 1918,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "591",
+    "title": "Charlot emigrante - (The immigrant)",
+    "year": 1917,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "592",
+    "title": "Charlot en el balneario - (The cure)",
+    "year": 1917,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "593",
+    "title": "Charlot encargado de bazar - (The Floorwalker)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "594",
+    "title": "El aventurero - (The adventurer)",
+    "year": 1917,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "595",
+    "title": "Charlot bombero - (The fireman)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "596",
+    "title": "Charlot músico ambulante - (The vagabond)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "597",
+    "title": "Charlot a la una de la madrugada - (One a.m.)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "598",
+    "title": "Charlot prestamista - (The pawnshop)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "599",
+    "title": "Charlot héroe del patín - (The rink)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "600",
+    "title": "Charlot tramoyista de cine - (Behind the screen)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "601",
+    "title": "Charlot licenciado de presidio - (Police)",
+    "year": 1916,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "602",
+    "title": "Charlot trasnochador - (A night out)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "603",
+    "title": "Armas al hombro - (Shoulder arms)",
+    "year": 1918,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "604",
+    "title": "Charlot perfecta dama - (A Woman)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "605",
+    "title": "Charlot cambia de oficio - (His new Job)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "606",
+    "title": "Charlot en el teatro - (A night in the show)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "607",
+    "title": "Charlot campeón de boxeo - (The champion)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "608",
+    "title": "Charlot en el parque - (In the park)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "609",
+    "title": "Charlot en la playa - (By the sea)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "610",
+    "title": "Charlot vagabundo - (The tramp)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "611",
+    "title": "La fuga de Charlot - (A jitney elopement)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "612",
+    "title": "Charlot portero de Banco - (The Bank)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "613",
+    "title": "Charlot trabajando de papelista - (Work)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "614",
+    "title": "Charlot marinero - (Shanghaied)",
+    "year": 1915,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "615",
+    "title": "Charlot y Fatty en el café - (The Rounders)",
+    "year": 1914,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "616",
+    "title": "Aventura de Charlot - (Triple trouble)",
+    "year": 1918,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "617",
+    "title": "El peregrino - (The pilgrim)",
+    "year": 1923,
+    "genre": "Humor",
+    "director": "Charles Chaplin",
+    "homeRecorded": false
+  },
+  {
+    "id": "618",
+    "title": "Psicosis - (Psycho)",
+    "year": 1960,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "619",
+    "title": "Con la muerte en los talones - (North by Northwest)",
+    "year": 1958,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "620",
+    "title": "La ventana indiscreta - (Rear window)",
+    "year": 1954,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "621",
+    "title": "Los pájaros - (The birds)",
+    "year": 1963,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "622",
+    "title": "Vértigo - (De entre los muertos)",
+    "year": 1958,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "623",
+    "title": "Crimen perfecto - (Dial M. for murder)",
+    "year": 1954,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "624",
+    "title": "Encadenados - (Notorius)",
+    "year": 1946,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "625",
+    "title": "Frenesí - (Frenzy)",
+    "year": 1972,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "626",
+    "title": "Rebeca - (Rebecca)",
+    "year": 1940,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "627",
+    "title": "Atrapa a un ladrón - (To catch a thief)",
+    "year": 1955,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "628",
+    "title": "Sospecha - (Suspicion)",
+    "year": 1941,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "629",
+    "title": "El hombre que sabía demasiado - (The man who knew too much)",
+    "year": 1956,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "630",
+    "title": "La soga - (The rope)",
+    "year": 1948,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "631",
+    "title": "Extraños en un tren - (Strangers on a train)",
+    "year": 1951,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "632",
+    "title": "La sombra de una duda - (Shadow of a doubt)",
+    "year": 1943,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "633",
+    "title": "Marnie la ladrona - (Marnie)",
+    "year": 1964,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "634",
+    "title": "Yo confieso - (I confess)",
+    "year": 1953,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "635",
+    "title": "Cortina rasgada - (Torn curtain)",
+    "year": 1966,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "636",
+    "title": "Falso culpable - (The wrong man)",
+    "year": 1957,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "637",
+    "title": "La trama - (Family plot)",
+    "year": 1976,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "638",
+    "title": "Recuerda - (Spellbound)",
+    "year": 1945,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "639",
+    "title": "Treinta y nueve escalones - (The thirty nine Steps)",
+    "year": 1935,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "640",
+    "title": "Pero ¿quién mató a Harry? - (The trouble with Harry)",
+    "year": 1956,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "641",
+    "title": "Sabotaje - (Saboteur,1942)",
+    "year": 1942,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "642",
+    "title": "Topaz - (Topaz)",
+    "year": 1969,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "643",
+    "title": "Pánico en la escena - (Stage fright)",
+    "year": 1950,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "644",
+    "title": "Náufragos - (Lifeboat)",
+    "year": 1943,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "645",
+    "title": "El proceso Paradine - (The Paradine case)",
+    "year": 1947,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "646",
+    "title": "Atormentada - (Under Capricorn)",
+    "year": 1949,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "647",
+    "title": "Enviado especial - (Foreing correspondent)",
+    "year": 1940,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "648",
+    "title": "Matrimonio original - (Mr.and Mrs.Smith)",
+    "year": 1940,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "649",
+    "title": "Alarma en el expreso - (The Lady Vanishes)",
+    "year": 1938,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "650",
+    "title": "Sabotaje - (Sabotage,1936)",
+    "year": 1936,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "651",
+    "title": "Agente secreto - (The Secret agent)",
+    "year": 1936,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "652",
+    "title": "Posada Jamaica - (Jamaica inn)",
+    "year": 1939,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "653",
+    "title": "Inocencia y juventud - (Young and innocent)",
+    "year": 1937,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "654",
+    "title": "Arthur - (Arthur)",
+    "year": 1959,
+    "genre": "Suspense",
+    "director": "Alfred Hitchcock",
+    "homeRecorded": false
+  },
+  {
+    "id": "655",
+    "title": "Asesinato en el Orient Express - (Murder on the Or.Express)",
+    "year": 1974,
+    "genre": "Thriller",
+    "director": "Sidney Lumet",
+    "homeRecorded": false
+  },
+  {
+    "id": "656",
+    "title": "Muerte en el Nilo - (Death on the Nile)",
+    "year": 1978,
+    "genre": "Thriller",
+    "director": "John Guillermin",
+    "homeRecorded": false
+  },
+  {
+    "id": "657",
+    "title": "Testigo de cargo - (Witness for the prosecution)",
+    "year": 1958,
+    "genre": "Thriller",
+    "director": "Billy Wilder",
+    "homeRecorded": false
+  },
+  {
+    "id": "658",
+    "title": "Noche sin fin - (Endless night)",
+    "year": 1971,
+    "genre": "Thriller",
+    "director": "Sidney Gilliat",
+    "homeRecorded": false
+  },
+  {
+    "id": "659",
+    "title": "Muerte bajo el sol - (Evil under the sun)",
+    "year": 1974,
+    "genre": "Thriller",
+    "director": "Guy Hamilton",
+    "homeRecorded": false
+  },
+  {
+    "id": "660",
+    "title": "El hombre del traje marrón - (The man in the brown suit)",
+    "year": 1988,
+    "genre": "Thriller",
+    "director": "Alan Grint",
+    "homeRecorded": false
+  },
+  {
+    "id": "661",
+    "title": "El espejo roto - (The mirror cracked from side to side)",
+    "year": 1980,
+    "genre": "Thriller",
+    "director": "Guy Hamilton",
+    "homeRecorded": false
+  },
+  {
+    "id": "662",
+    "title": "La muerte de Lord Edgware - (Lord Edgware dies)",
+    "year": 1985,
+    "genre": "Thriller",
+    "director": "Lou Antonio",
+    "homeRecorded": false
+  },
+  {
+    "id": "663",
+    "title": "El misterio de la guía de ferrocarriles-(The A.B.C.murders)",
+    "year": 1991,
+    "genre": "Misterio",
+    "director": "Andrew Grieve",
+    "homeRecorded": false
+  },
+  {
+    "id": "664",
+    "title": "Muerte en las nubes - (Death in the clouds)",
+    "year": 1991,
+    "genre": "Misterio",
+    "director": "Stephen Whittaker",
+    "homeRecorded": false
+  },
+  {
+    "id": "665",
+    "title": "El misterioso caso de Styles - (The mysterious affair at Styles)",
+    "year": 1991,
+    "genre": "Misterio",
+    "director": "Ross Devenish",
+    "homeRecorded": false
+  },
+  {
+    "id": "666",
+    "title": "Asesinato en Bardsley Mews - (Murder in the Mews)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "667",
+    "title": "Triángulo en Rodas - (Triangle at Rhodes)",
+    "year": 1991,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "668",
+    "title": "Un robo increíble - (Incredible theft)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "669",
+    "title": "La aventura de la cocinera - (Adventure of the Clapham Cook)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "670",
+    "title": "El misterio de Cornualles - (Cornish Mistery)",
+    "year": 1991,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "671",
+    "title": "La aventura de Johnnie Waverly-(Adventure of Johnnie Waverly)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "672",
+    "title": "El rey del trébol - (King of Clubs)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "673",
+    "title": "El tercer piso - (The third floor flat)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "674",
+    "title": "La desaparición del Sr.Davenheim-(Disappearance of Mr.Davenheim)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Andrew Grieve",
+    "homeRecorded": false
+  },
+  {
+    "id": "675",
+    "title": "Doble culpabilidad - (Double sin)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Richard Spence",
+    "homeRecorded": false
+  },
+  {
+    "id": "676",
+    "title": "La aventura del piso barato - (Adventure of the cheap flat)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Richard Spence",
+    "homeRecorded": false
+  },
+  {
+    "id": "677",
+    "title": "La mina perdida - (Lost Mine)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "678",
+    "title": "La aventura del \"Estrella de Occidente\"-Adventure of the Western Star",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Richard Spence",
+    "homeRecorded": false
+  },
+  {
+    "id": "679",
+    "title": "El rapto del Primer Ministro - (Kidnapped Primer Minister)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Andrew Grieve",
+    "homeRecorded": false
+  },
+  {
+    "id": "680",
+    "title": "Problema en el mar - (Problem at sea)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "681",
+    "title": "El sueño - (The dream)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Edward Bennet",
+    "homeRecorded": false
+  },
+  {
+    "id": "682",
+    "title": "Tarta de zarzamoras - (Four and Twenty blackbirds)",
+    "year": 1989,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "683",
+    "title": "Peligro inminente I - (Peril at end house I)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "684",
+    "title": "Peligro inminente II - (Peril at end house II)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Renny Rye",
+    "homeRecorded": false
+  },
+  {
+    "id": "685",
+    "title": "El tren de las 4.50 I - (The 4.50 from Paddington I)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Martyn Friend",
+    "homeRecorded": false
+  },
+  {
+    "id": "686",
+    "title": "El tren de las 4.50 II - (The 4.50 from Paddington II)",
+    "year": 1990,
+    "genre": "Misterio",
+    "director": "Martyn Friend",
+    "homeRecorded": false
+  },
+  {
+    "id": "687",
+    "title": "Un puñado de centeno I - (A pocket full of Rye I)",
+    "year": 1987,
+    "genre": "Misterio",
+    "director": "Guy Slater",
+    "homeRecorded": false
+  },
+  {
+    "id": "688",
+    "title": "Un puñado de centeno II - (A pocket full of Rye II)",
+    "year": 1987,
+    "genre": "Misterio",
+    "director": "Guy Slater",
+    "homeRecorded": false
+  },
+  {
+    "id": "689",
+    "title": "Un cadáver en la Biblioteca I - (The body in the Library I)",
+    "year": 1987,
+    "genre": "Misterio",
+    "director": "Guy Slater",
+    "homeRecorded": false
+  },
+  {
+    "id": "690",
+    "title": "Un cadáver en la Biblioteca II-(The body in the Library II)",
+    "year": 1987,
+    "genre": "Misterio",
+    "director": "Guy Slater",
+    "homeRecorded": false
+  },
+  {
+    "id": "691",
+    "title": "Un cadáver en la Biblioteca III-(The body in the Library III)",
+    "year": 1988,
+    "genre": "Misterio",
+    "director": "Guy Slater",
+    "homeRecorded": false
+  },
+  {
+    "id": "692",
+    "title": "Se anuncia un asesinato I - (A murder is announced I)",
+    "year": 1988,
+    "genre": "Misterio",
+    "director": "Martyn Friend",
+    "homeRecorded": false
+  },
+  {
+    "id": "693",
+    "title": "Se anuncia un asesinato II - (A murder is announced II)",
+    "year": 1988,
+    "genre": "Misterio",
+    "director": "Martyn Friend",
+    "homeRecorded": false
+  },
+  {
+    "id": "694",
+    "title": "Se anuncia un asesinato III - (A murder is announced III)",
+    "year": 1988,
+    "genre": "Misterio",
+    "director": "Martyn Friend",
+    "homeRecorded": false
+  },
+  {
+    "id": "695",
+    "title": "Una noche en la Opera - (A night at the Opera)",
+    "year": 1935,
+    "genre": "Comedia",
+    "director": "Sam Wood",
+    "homeRecorded": false
+  },
+  {
+    "id": "696",
+    "title": "Los hermanos Marx en el Oeste - (Go West)",
+    "year": 1940,
+    "genre": "Comedia",
+    "director": "Edward Buzell",
+    "homeRecorded": false
+  },
+  {
+    "id": "697",
+    "title": "Sopa de ganso - (Duck soup)",
+    "year": 1933,
+    "genre": "Comedia",
+    "director": "Leo McCarey",
+    "homeRecorded": false
+  },
+  {
+    "id": "698",
+    "title": "Un día en las carreras - (A Day at the races)",
+    "year": 1937,
+    "genre": "Comedia",
+    "director": "Sam Wood",
+    "homeRecorded": false
+  },
+  {
+    "id": "699",
+    "title": "Plumas de caballo - (Horse feathers)",
+    "year": 1932,
+    "genre": "Comedia",
+    "director": "Norman Z.McLeod",
+    "homeRecorded": false
+  },
+  {
+    "id": "700",
+    "title": "Una tarde en el circo - (At the Circus)",
+    "year": 1939,
+    "genre": "Comedia",
+    "director": "Edward Buzell",
+    "homeRecorded": false
+  },
+  {
+    "id": "701",
+    "title": "Pistoleros de agua dulce - (Monkey Business)",
+    "year": 1931,
+    "genre": "Comedia",
+    "director": "Norman Z.McLeod",
+    "homeRecorded": false
+  },
+  {
+    "id": "702",
+    "title": "Una noche en Casablanca - (A night in Casablanca)",
+    "year": 1946,
+    "genre": "Comedia",
+    "director": "Archie Mayo",
+    "homeRecorded": false
+  },
+  {
+    "id": "703",
+    "title": "El conflicto de los Hermanos Marx - (Animal Crackers)",
+    "year": 1930,
+    "genre": "Comedia",
+    "director": "Victor Heerman",
+    "homeRecorded": false
+  },
+  {
+    "id": "704",
+    "title": "Tienda de locos - (The Big store)",
+    "year": 1941,
+    "genre": "Comedia",
+    "director": "Charles Riesner",
+    "homeRecorded": false
+  },
+  {
+    "id": "705",
+    "title": "El hotel de los líos - (Room Service)",
+    "year": 1938,
+    "genre": "Comedia",
+    "director": "William A.Seiter",
+    "homeRecorded": false
+  },
+  {
+    "id": "706",
+    "title": "Los cuatro cocos - (The Cocoanuts)",
+    "year": 1929,
+    "genre": "Comedia",
+    "director": "J.Santley/R.Florey",
+    "homeRecorded": false
+  },
+  {
+    "id": "707",
+    "title": "Amor en conserva - (Love Happy)",
+    "year": 1950,
+    "genre": "Comedia",
+    "director": "David Miller",
+    "homeRecorded": false
+  },
+  {
+    "id": "708",
+    "title": "Laurel y Hardy en el Oeste - (Way out West)",
+    "year": 1937,
+    "genre": "Comedia",
+    "director": "James V.Horne",
+    "homeRecorded": false
+  },
+  {
+    "id": "709",
+    "title": "Dos pares de mellizos - (Our relations)",
+    "year": 1936,
+    "genre": "Humor",
+    "director": "Harry Lachman",
+    "homeRecorded": false
+  },
+  {
+    "id": "710",
+    "title": "Estudiantes en Oxford - (A chump at Oxford)",
+    "year": 1940,
+    "genre": "Humor",
+    "director": "Alfred Goulding",
+    "homeRecorded": false
+  },
+  {
+    "id": "711",
+    "title": "De bote en bote - (Pardon Us)",
+    "year": 1931,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "712",
+    "title": "Marineros a la fuerza - (Saps at sea)",
+    "year": 1940,
+    "genre": "Humor",
+    "director": "Gordon Douglas",
+    "homeRecorded": false
+  },
+  {
+    "id": "713",
+    "title": "Cabezas de chorlito - (Block-Heads)",
+    "year": 1938,
+    "genre": "Humor",
+    "director": "John G.Blystone",
+    "homeRecorded": false
+  },
+  {
+    "id": "714",
+    "title": "Dos tíos grandes - (Be Big)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "715",
+    "title": "Dos entrometidos - (Busy bodies)",
+    "year": 1933,
+    "genre": "Humor",
+    "director": "Lloyd French",
+    "homeRecorded": false
+  },
+  {
+    "id": "716",
+    "title": "Pescadores pescados - (Towed in a Hole)",
+    "year": 1933,
+    "genre": "Humor",
+    "director": "George Marshall",
+    "homeRecorded": false
+  },
+  {
+    "id": "717",
+    "title": "Radiomanía - (Hog wild)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "718",
+    "title": "Mi amigo y yo - (My and my pal)",
+    "year": 1933,
+    "genre": "Humor",
+    "director": "Charles Rogers",
+    "homeRecorded": false
+  },
+  {
+    "id": "719",
+    "title": "Vida nocturna - (Blotto)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "720",
+    "title": "La vida es dura - (The Chimp)",
+    "year": 1932,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "721",
+    "title": "Tiembla y titubea - (Below zero)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "722",
+    "title": "Noche de duendes - (The Laurel and Hardy Murder case)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "723",
+    "title": "Un día de campo - (A perfect day)",
+    "year": 1929,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "724",
+    "title": "Patrulla de medianoche - (The Midnigth patrol)",
+    "year": 1933,
+    "genre": "Humor",
+    "director": "Lloyd French",
+    "homeRecorded": false
+  },
+  {
+    "id": "725",
+    "title": "Por su mala cabeza - (Going Bye Bye)",
+    "year": 1934,
+    "genre": "Humor",
+    "director": "Charles Rogers",
+    "homeRecorded": false
+  },
+  {
+    "id": "726",
+    "title": "Todo en orden - (Helpmates)",
+    "year": 1932,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "727",
+    "title": "En cada puerto un terror - (Any old port)",
+    "year": 1932,
+    "genre": "Humor",
+    "director": "James W.Horne",
+    "homeRecorded": false
+  },
+  {
+    "id": "728",
+    "title": "Ladrones - (Nights owls)",
+    "year": 1930,
+    "genre": "Humor",
+    "director": "James Parrott",
+    "homeRecorded": false
+  },
+  {
+    "id": "729",
+    "title": "Había una vez dos héroes - (Babes in Toyland)",
+    "year": 1934,
+    "genre": "Humor",
+    "director": "Cha.Rogers/Gus Meins",
+    "homeRecorded": false
+  },
+  {
+    "id": "730",
+    "title": "Ases de la mala pata - (The fixer uppers)",
+    "year": 1935,
+    "genre": "Humor",
+    "director": "Charles Rogers",
+    "homeRecorded": false
+  },
+  {
+    "id": "731",
+    "title": "Golpe por golpe - (Tit for tat)",
+    "year": 1935,
+    "genre": "Humor",
+    "director": "Charles Rogers",
+    "homeRecorded": false
+  },
+  {
+    "id": "732",
+    "title": "Su última equivocación - (Their first mistake)",
+    "year": 1932,
+    "genre": "Humor",
+    "director": "George Marshall",
+    "homeRecorded": false
+  },
+  {
+    "id": "733",
+    "title": "El profesor chiflado - (The Nutty professor)",
+    "year": 1963,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "734",
+    "title": "El terror de las chicas - (The ladie's man)",
+    "year": 1961,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "735",
+    "title": "Tres en un sofá - (Three on a couch)",
+    "year": 1966,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "736",
+    "title": "Dónde está el frente? - Which way to the Front?)",
+    "year": 1970,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "737",
+    "title": "Caso clínico en la clínica - (The disorderly Orderly)",
+    "year": 1964,
+    "genre": "Comedia",
+    "director": "Frank Tashlin",
+    "homeRecorded": false
+  },
+  {
+    "id": "738",
+    "title": "Las joyas de la familia - (The family jewels)",
+    "year": 1965,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "739",
+    "title": "Viviendo su vida - (Living it up)",
+    "year": 1954,
+    "genre": "Comedia",
+    "director": "Norman Taurog",
+    "homeRecorded": false
+  },
+  {
+    "id": "740",
+    "title": "La otra cara del gángster - (The Big mouth)",
+    "year": 1967,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "741",
+    "title": "Qué día tengo! - (Don't raise the bridge, lower the river)",
+    "year": 1967,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "742",
+    "title": "El recluta - (The sad sack)",
+    "year": 1957,
+    "genre": "Comedia",
+    "director": "George Marshall",
+    "homeRecorded": false
+  },
+  {
+    "id": "743",
+    "title": "Un espía en Hollywood - (The errand boy)",
+    "year": 1961,
+    "genre": "Comedia",
+    "director": "Jerry Lewis",
+    "homeRecorded": false
+  },
+  {
+    "id": "744",
+    "title": "El Mundo está loco, loco, loco - (It's a mad, mad, mad world)",
+    "year": 1963,
+    "genre": "Comedia",
+    "director": "Stanley Kramer",
+    "homeRecorded": false
+  },
+  {
+    "id": "745",
+    "title": "Lío en los Grandes Almacenes - (Whos Minding the Store)",
+    "year": 1963,
+    "genre": "Comedia",
+    "director": "Frank Tashlin",
+    "homeRecorded": false
+  },
+  {
+    "id": "746",
+    "title": "Lo mejor de Bugs Bunny",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "747",
+    "title": "Lo mejor de Piolín",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "748",
+    "title": "Lo mejor del Pato Lucas",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "749",
+    "title": "Lo mejor de Tom (Tom y Jerry)",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "750",
+    "title": "Lo mejor de El Coyote",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "751",
+    "title": "Lo mejor de La Pantera Rosa",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "752",
+    "title": "Lo mejor de El Demonio de Tasmania",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "753",
+    "title": "Lo mejor de Speedy Gonzales",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "754",
+    "title": "Lo mejor de Porky",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "755",
+    "title": "Lo mejor de Silvestre",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "756",
+    "title": "Lo mejor del Gallo Claudio",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "757",
+    "title": "Lo mejor de Elmer Fudd",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "758",
+    "title": "Lo mejor de Jerry (Tom y Jerry)",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "759",
+    "title": "Lo mejor de Pepe Le Pew",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "760",
+    "title": "Lo mejor de Marvin el Marciano",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "761",
+    "title": "Lo mejor de Spyke",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "762",
+    "title": "Lo Mejor de Silvestre Junior",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "763",
+    "title": "Lo mejor de Correcaminos",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "764",
+    "title": "Lo mejor de Yosemite Sam",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "765",
+    "title": "Lo mejor de La novia de la Pantera Rosa",
+    "year": 1997,
+    "genre": "D.Animados",
+    "director": "Walt Disney",
+    "homeRecorded": false
+  },
+  {
+    "id": "766",
+    "title": "ABC Sésamo - Conocer las letras",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "767",
+    "title": "Las cuentas de nunca acabar - Aprender a contar",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "768",
+    "title": "Vivir es muy sano - Cuidémonos",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "769",
+    "title": "Todos somos raros - ¡Menudas diferencias!",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "770",
+    "title": "Uno para todos, todos para uno - Ayudémonos",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "771",
+    "title": "Yo estoy bien, tú estás bien - Yo siento",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "772",
+    "title": "Una escuela en todas partes - Yo aprendo",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "773",
+    "title": "Soy como soy - Así soy",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "774",
+    "title": "Cuántas emociones! - Nuestras emociones",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "775",
+    "title": "Todo tiene arreglo - Buscar soluciones",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "776",
+    "title": "Lo pequeño es hermoso - Todos distintos",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "777",
+    "title": "Las sorpresas de vivir - Vidas variadas",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "778",
+    "title": "Mi familia es un tesoro - La familia",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "779",
+    "title": "El silencio de los sonidos - Oigamos",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "780",
+    "title": "La cuadratura del círculo - ¡A clasificar!",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "781",
+    "title": "Veo, veo, ¿qué ves? - ¡Qué figuras!",
+    "year": 1997,
+    "genre": "Muñecos",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "782",
+    "title": "En casa",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "783",
+    "title": "Mi cuerpo",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "784",
+    "title": "De fiesta",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "785",
+    "title": "En la cocina",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "786",
+    "title": "El bosque",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "787",
+    "title": "El mar",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "788",
+    "title": "De viaje",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "789",
+    "title": "Colores",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "790",
+    "title": "Animales salvajes",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "791",
+    "title": "Caras divertidas",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "792",
+    "title": "En el campo",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "793",
+    "title": "Música",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "794",
+    "title": "La montaña",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "795",
+    "title": "Estaciones del año",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "796",
+    "title": "Mundo mágico",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "797",
+    "title": "La ciudad",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "798",
+    "title": "Oeste salvaje",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "799",
+    "title": "Vida cotidiana",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "800",
+    "title": "Pequeño y grande",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "801",
+    "title": "Sitios lejanos",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "802",
+    "title": "Los malos",
+    "year": 1996,
+    "genre": "D.Animados",
+    "director": "-",
+    "homeRecorded": false
+  },
+  {
+    "id": "803",
+    "title": "Agarralo como puedas 33 1/3(El insulto final)-(Naked gun 33 1/3: The final insult)",
+    "year": 1994,
+    "genre": "Comedia",
+    "director": "Peter Segal",
+    "homeRecorded": true
+  },
+  {
+    "id": "804",
+    "title": "Análisis final - (Final analysis)",
+    "year": 1992,
+    "genre": "Thriller",
+    "director": "Phil Joanou",
+    "homeRecorded": true
+  },
+  {
+    "id": "805",
+    "title": "Aquí el que no corre... vuela",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Ramón Fernández",
+    "homeRecorded": true
+  },
+  {
+    "id": "806",
+    "title": "Aquí un amigo - (Buddy buddy)",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Billy Wilder",
+    "homeRecorded": true
+  },
+  {
+    "id": "807",
+    "title": "Asuntos sucios - (Internal affairs)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Mike Figgis",
+    "homeRecorded": true
+  },
+  {
+    "id": "808",
+    "title": "Aterriza como puedas II - (Airplane II: The Sequel)",
+    "year": 1982,
+    "genre": "Comedia",
+    "director": "Ken Finkleman",
+    "homeRecorded": true
+  },
+  {
+    "id": "809",
+    "title": "Atrapados sin salida - (No Mercy)",
+    "year": 1986,
+    "genre": "Drama",
+    "director": "Richard Pearce",
+    "homeRecorded": true
+  },
+  {
+    "id": "810",
+    "title": "Aventuras en la gran ciudad - (Adventures in Babysitting)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Chris Columbus",
+    "homeRecorded": true
+  },
+  {
+    "id": "811",
+    "title": "Beethoven 2: La familia crece - (Beethoven's 2nd)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Rod Daniel",
+    "homeRecorded": true
+  },
+  {
+    "id": "812",
+    "title": "Belleza mortal - (Fatal beauty)",
+    "year": 1987,
+    "genre": "Thriller",
+    "director": "Tom Holland",
+    "homeRecorded": true
+  },
+  {
+    "id": "813",
+    "title": "Brujas mágicas",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Mariano Ozores hijo",
+    "homeRecorded": true
+  },
+  {
+    "id": "814",
+    "title": "C.I.A. operación espacial - (Real men)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Denis Feldman",
+    "homeRecorded": true
+  },
+  {
+    "id": "815",
+    "title": "Camino de retorno - (Backtrack)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Dennis Hopper",
+    "homeRecorded": true
+  },
+  {
+    "id": "816",
+    "title": "Cariño, he agrandado al niño - (Honey, i blew up the Kid)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Randal Kleiser",
+    "homeRecorded": true
+  },
+  {
+    "id": "817",
+    "title": "Class - (Class)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Lewis John Carlino",
+    "homeRecorded": true
+  },
+  {
+    "id": "818",
+    "title": "Coma - (Coma)",
+    "year": 1978,
+    "genre": "Intriga",
+    "director": "Michael Crichton",
+    "homeRecorded": true
+  },
+  {
+    "id": "819",
+    "title": "Con la poli en los talones - (Quick change)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Howard Franklin",
+    "homeRecorded": true
+  },
+  {
+    "id": "820",
+    "title": "Conserje a su medida - (The Concierge)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Barry Sonnenfeld",
+    "homeRecorded": true
+  },
+  {
+    "id": "821",
+    "title": "Cortocircuito II - (Short Circuit 2)",
+    "year": 1988,
+    "genre": "C.Ficción",
+    "director": "Kenneth Johnson",
+    "homeRecorded": true
+  },
+  {
+    "id": "822",
+    "title": "Cristóbal Colón, de oficio descubridor",
+    "year": 1982,
+    "genre": "Comedia",
+    "director": "Mariano Ozores",
+    "homeRecorded": true
+  },
+  {
+    "id": "823",
+    "title": "Cuando un hombre ama a una mujer - (When a man loves a woman)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Luis Mandoki",
+    "homeRecorded": true
+  },
+  {
+    "id": "824",
+    "title": "De tal astilla, tal palo (Like father, like son)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Rod Daniel",
+    "homeRecorded": true
+  },
+  {
+    "id": "825",
+    "title": "Descalzos por el parque - (Barefoot in the Park)",
+    "year": 1967,
+    "genre": "Comedia",
+    "director": "Gene Saks",
+    "homeRecorded": true
+  },
+  {
+    "id": "826",
+    "title": "Desmadre a la americana - (National Lampoon's. Animal House)",
+    "year": 1978,
+    "genre": "Comedia",
+    "director": "John Landis",
+    "homeRecorded": true
+  },
+  {
+    "id": "827",
+    "title": "Despedida de soltero - (Bachelor Party)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Neal Israel",
+    "homeRecorded": true
+  },
+  {
+    "id": "828",
+    "title": "Dos sabuesos despistados - (Dragnet)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Tom Mankiewicz",
+    "homeRecorded": true
+  },
+  {
+    "id": "829",
+    "title": "Dos tipos geniales - (Wise guys)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Brian De Palma",
+    "homeRecorded": true
+  },
+  {
+    "id": "830",
+    "title": "Dos viejos gruñones - (Grumpy old men)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Donald Petrie",
+    "homeRecorded": true
+  },
+  {
+    "id": "831",
+    "title": "El charlatán - (Leap of faith)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Richard Pearce",
+    "homeRecorded": true
+  },
+  {
+    "id": "832",
+    "title": "El Cid cabreador",
+    "year": 1983,
+    "genre": "Humor",
+    "director": "Angelino Fons",
+    "homeRecorded": true
+  },
+  {
+    "id": "833",
+    "title": "El coleccionista - (The Collector)",
+    "year": 1964,
+    "genre": "Drama",
+    "director": "William Wyler",
+    "homeRecorded": true
+  },
+  {
+    "id": "834",
+    "title": "El Don ha muerto - (The Don is dead)",
+    "year": 1974,
+    "genre": "Acción",
+    "director": "Richard Fleischer",
+    "homeRecorded": true
+  },
+  {
+    "id": "835",
+    "title": "El expresso de Chicago - (Chicago express)",
+    "year": 1976,
+    "genre": "Comedia",
+    "director": "Arthur Hiller",
+    "homeRecorded": true
+  },
+  {
+    "id": "836",
+    "title": "El gran despilfarro - (Brewster's millions)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Walter Hill",
+    "homeRecorded": true
+  },
+  {
+    "id": "837",
+    "title": "El gran lío - (Nothing but trouble)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Dan Aykroyd",
+    "homeRecorded": true
+  },
+  {
+    "id": "838",
+    "title": "El hombre con un zapato rojo - (The man with one red shoe)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "Stan Dragoti",
+    "homeRecorded": true
+  },
+  {
+    "id": "839",
+    "title": "El libro de la selva (Adaptación) - (The Jungle Book)",
+    "year": 1967,
+    "genre": "D.Animados",
+    "director": "Wolfgang Reitherman",
+    "homeRecorded": true
+  },
+  {
+    "id": "840",
+    "title": "El misterio de las doce sillas - (The Twelve chairs)",
+    "year": 1970,
+    "genre": "Comedia",
+    "director": "Mel Brooks",
+    "homeRecorded": true
+  },
+  {
+    "id": "841",
+    "title": "El nuevo caso del Inspector Clousseau - (A shot in the dark)",
+    "year": 1964,
+    "genre": "Comedia",
+    "director": "Blake Edwards",
+    "homeRecorded": true
+  },
+  {
+    "id": "842",
+    "title": "El pelotón chiflado (Stripes)",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Ivan Reitman",
+    "homeRecorded": true
+  },
+  {
+    "id": "843",
+    "title": "El Príncipe de las mujeres - (Boomerang)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Reginald Hudlin",
+    "homeRecorded": true
+  },
+  {
+    "id": "844",
+    "title": "El secreto de la pirámide - (Young Sherlock Holmes)",
+    "year": 1985,
+    "genre": "Aventuras",
+    "director": "Steven Spielberg",
+    "homeRecorded": true
+  },
+  {
+    "id": "845",
+    "title": "El secreto de mi éxito - (The secret of my succes)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Herbert Ross",
+    "homeRecorded": true
+  },
+  {
+    "id": "846",
+    "title": "El superpoderoso - (Poliziotto superpiú)",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Sergio Corbucci",
+    "homeRecorded": true
+  },
+  {
+    "id": "847",
+    "title": "Ella siempre dice sí - (The marrying man)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Jerry Rees",
+    "homeRecorded": true
+  },
+  {
+    "id": "848",
+    "title": "Ellas dan el golpe - (A League of their own)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Penny Marshall",
+    "homeRecorded": true
+  },
+  {
+    "id": "849",
+    "title": "Elvira - (Elvira. Mistress of ther dark)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "James Signorelli",
+    "homeRecorded": true
+  },
+  {
+    "id": "850",
+    "title": "En el estanque dorado - (On golden pound)",
+    "year": 1981,
+    "genre": "Drama",
+    "director": "Mark Rydell",
+    "homeRecorded": true
+  },
+  {
+    "id": "851",
+    "title": "Escuela de azafatas - (Stewardess Academy)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Ken Blacato",
+    "homeRecorded": true
+  },
+  {
+    "id": "852",
+    "title": "Esposa por sorpresa - (House Sitter)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Frank Oz",
+    "homeRecorded": true
+  },
+  {
+    "id": "853",
+    "title": "Esta casa es una ruina - (The money pit)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Richard Benjamin",
+    "homeRecorded": true
+  },
+  {
+    "id": "854",
+    "title": "Estado crítico - (Critical condition)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Michael Apted",
+    "homeRecorded": true
+  },
+  {
+    "id": "855",
+    "title": "Este chico es un demonio 2 - (Problem child 2)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Brian Levant",
+    "homeRecorded": true
+  },
+  {
+    "id": "856",
+    "title": "Extremadamente peligrosa - (The Real Mc Coy)",
+    "year": 1993,
+    "genre": "Thriller",
+    "director": "Russell Mulcahy",
+    "homeRecorded": true
+  },
+  {
+    "id": "857",
+    "title": "Flashdance - (Flashdance)",
+    "year": 1983,
+    "genre": "Musical",
+    "director": "Adrian Lyne",
+    "homeRecorded": true
+  },
+  {
+    "id": "858",
+    "title": "Historia de una Revolución - (The French Revolution)",
+    "year": 1990,
+    "genre": "Epica",
+    "director": "Robert Enrico",
+    "homeRecorded": true
+  },
+  {
+    "id": "859",
+    "title": "Historias de Nueva York - (New York Stories) [Apuntes del natural(Life Lessons)/La vida sin Zoe(        )/Edipo reprimido(Oedipus Wrecks)]",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": true
+  },
+  {
+    "id": "860",
+    "title": "Homer y Eddie - (Homer and Eddie)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Andrei Konchalovsky",
+    "homeRecorded": true
+  },
+  {
+    "id": "861",
+    "title": "Infielmente tuya - (Unfaithfully yours)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Howard Zieff",
+    "homeRecorded": true
+  },
+  {
+    "id": "862",
+    "title": "Jumpin'Jack Flash - (Jumpin'Jack Flash)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Penny Marshall",
+    "homeRecorded": true
+  },
+  {
+    "id": "863",
+    "title": "La hoguera de las vanidades - (The bonfire of the vanities)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Brian De Palma",
+    "homeRecorded": true
+  },
+  {
+    "id": "864",
+    "title": "La Isla de las cabezas cortadas - (Cutthroat Island)",
+    "year": 1994,
+    "genre": "Aventuras",
+    "director": "Renny Harlin",
+    "homeRecorded": true
+  },
+  {
+    "id": "865",
+    "title": "La loca Historia de las Galaxias - (Spaceballs)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Mel Brooks",
+    "homeRecorded": true
+  },
+  {
+    "id": "866",
+    "title": "La maldición de Damien - (Damien Omen II)",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Don Taylor",
+    "homeRecorded": true
+  },
+  {
+    "id": "867",
+    "title": "La mejor defensa, el ataque - (Best defense)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Willard Huyck",
+    "homeRecorded": true
+  },
+  {
+    "id": "868",
+    "title": "La mujer explosiva - (Science)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "John Hughes",
+    "homeRecorded": true
+  },
+  {
+    "id": "869",
+    "title": "La pareja chiflada - (The sunshine boys)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "John Erman",
+    "homeRecorded": true
+  },
+  {
+    "id": "870",
+    "title": "La última noche de Boris Gruschenko - (Love and death)",
+    "year": 1975,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": true
+  },
+  {
+    "id": "871",
+    "title": "La venganza de la Pantera Rosa - (Revenge of the Pink Panther)",
+    "year": 1978,
+    "genre": "Comedia",
+    "director": "Blake Edwards",
+    "homeRecorded": true
+  },
+  {
+    "id": "872",
+    "title": "La vuelta al mundo en 80 días - (Around the World in 80 days)",
+    "year": 1989,
+    "genre": "Acción",
+    "director": "Buzz Kulik",
+    "homeRecorded": true
+  },
+  {
+    "id": "873",
+    "title": "Las delicias de los verdes años",
+    "year": 1975,
+    "genre": "Comedia",
+    "director": "Antonio Mercero",
+    "homeRecorded": true
+  },
+  {
+    "id": "874",
+    "title": "Las locas peripecias de un señor mamá - (Mr.Mom)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Stan Dragoti",
+    "homeRecorded": true
+  },
+  {
+    "id": "875",
+    "title": "Las locuras de papá - (She's out of control)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Stan Dragoti",
+    "homeRecorded": true
+  },
+  {
+    "id": "876",
+    "title": "Las tribulaciones de un chino en China-(Les tribulations d'un chinois en Chine)",
+    "year": 1965,
+    "genre": "Comedia",
+    "director": "Philippe De Broca",
+    "homeRecorded": true
+  },
+  {
+    "id": "877",
+    "title": "Lo que queda del día - (The remains of the day)",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "James Ivory",
+    "homeRecorded": true
+  },
+  {
+    "id": "878",
+    "title": "Loca Academia de combate - (Combat Academy)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Neal Israel",
+    "homeRecorded": true
+  },
+  {
+    "id": "879",
+    "title": "Loca Academia de Policía - (Police Academy)",
+    "year": 1984,
+    "genre": "Comedia",
+    "director": "Hugh Wilson",
+    "homeRecorded": true
+  },
+  {
+    "id": "880",
+    "title": "Loca Academia de Policía V-(Pol.Ac.5.Assignment:Miami Beach)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Alam Myerson",
+    "homeRecorded": true
+  },
+  {
+    "id": "881",
+    "title": "Loca Academia de Policía VI - (Police Academy 6)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Peter Bonerz",
+    "homeRecorded": true
+  },
+  {
+    "id": "882",
+    "title": "Locos de remate - (Stir Crazy)",
+    "year": 1980,
+    "genre": "Comedia",
+    "director": "Sidney Poitier",
+    "homeRecorded": true
+  },
+  {
+    "id": "883",
+    "title": "Los caballeros de la mesa cuadrada y sus locos seguidores - (Monty Phyton and the holy grail)",
+    "year": 1974,
+    "genre": "Comedia",
+    "director": "Terry Gilliam",
+    "homeRecorded": true
+  },
+  {
+    "id": "884",
+    "title": "Los diez Mandamientos - (The ten Comandments)",
+    "year": 1956,
+    "genre": "Epica",
+    "director": "Cecil B.DeMille",
+    "homeRecorded": true
+  },
+  {
+    "id": "885",
+    "title": "Los fantasmas atacan al jefe - (Scrooged)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Richard Donner",
+    "homeRecorded": true
+  },
+  {
+    "id": "886",
+    "title": "Los intocables de Elliot Ness - (The untouchables)",
+    "year": 1987,
+    "genre": "Thriller",
+    "director": "Brian De Palma",
+    "homeRecorded": true
+  },
+  {
+    "id": "887",
+    "title": "Los locos de la ambulancia - (Paramedics)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Stuart Margolin",
+    "homeRecorded": true
+  },
+  {
+    "id": "888",
+    "title": "Los Picapiedra - (The Flinstones)",
+    "year": 1994,
+    "genre": "Comedia",
+    "director": "Briant Levant",
+    "homeRecorded": true
+  },
+  {
+    "id": "889",
+    "title": "Los productores - (The producers)",
+    "year": 1968,
+    "genre": "Comedia",
+    "director": "Mel Brooks",
+    "homeRecorded": true
+  },
+  {
+    "id": "890",
+    "title": "Los Viajes de Gulliver(1ª parte) - (Gulliver's Travels)",
+    "year": 1996,
+    "genre": "Aventuras",
+    "director": "Charles Sturridge",
+    "homeRecorded": true
+  },
+  {
+    "id": "891",
+    "title": "Los Viajes de Gulliver(2ª parte) - (Gulliver's Travels)",
+    "year": 1996,
+    "genre": "Aventuras",
+    "director": "Charles Sturridge",
+    "homeRecorded": true
+  },
+  {
+    "id": "892",
+    "title": "Maridos y mujeres - (Husband and Wives)",
+    "year": 1992,
+    "genre": "Drama",
+    "director": "Woody Allen",
+    "homeRecorded": true
+  },
+  {
+    "id": "893",
+    "title": "Mejor solo que mal acompañado - (Planes, trains & automobiles)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "John Hughes",
+    "homeRecorded": true
+  },
+  {
+    "id": "894",
+    "title": "Mi padre ¡Que ligue! - (My father ¡The Hero!)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Steve Miner",
+    "homeRecorded": true
+  },
+  {
+    "id": "895",
+    "title": "Millonario al instante - (Taking care of business)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Arthur Hiller",
+    "homeRecorded": true
+  },
+  {
+    "id": "896",
+    "title": "Misterioso asesinato en Manhattan - (Manhattan Murder mystery)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": true
+  },
+  {
+    "id": "897",
+    "title": "Monjas a la carrera - (Nuns on the run)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Jonathan Lynn",
+    "homeRecorded": true
+  },
+  {
+    "id": "898",
+    "title": "Mujeres del F.B.I. - (FEDS)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Dan Goldberg",
+    "homeRecorded": true
+  },
+  {
+    "id": "899",
+    "title": "No matarás ... al vecino - (The 'Burbs)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Joe Dante",
+    "homeRecorded": true
+  },
+  {
+    "id": "900",
+    "title": "Noches de Harlem - (Harlem nights)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Eddie Murphy",
+    "homeRecorded": true
+  },
+  {
+    "id": "901",
+    "title": "Nunca fuimos ángeles - (We're no Angels)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Neil Jordan",
+    "homeRecorded": true
+  },
+  {
+    "id": "902",
+    "title": "Peggy Sue se casó - (Peggy Sue got married)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Francis Ford Coppola",
+    "homeRecorded": true
+  },
+  {
+    "id": "903",
+    "title": "Persecución muy, muy caliente - (Hot Pursuit)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Steven Lisberger",
+    "homeRecorded": true
+  },
+  {
+    "id": "904",
+    "title": "Por favor, maten a mi mujer - (Ruthless people)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Jim Abrahams",
+    "homeRecorded": true
+  },
+  {
+    "id": "905",
+    "title": "Porky's contraataca - (Porky's revenge)",
+    "year": 1985,
+    "genre": "Comedia",
+    "director": "James Komack",
+    "homeRecorded": true
+  },
+  {
+    "id": "906",
+    "title": "Porky's II. Al día siguiente - (Porky's II)",
+    "year": 1983,
+    "genre": "Comedia",
+    "director": "Bob Clark",
+    "homeRecorded": true
+  },
+  {
+    "id": "907",
+    "title": "Porkys - (Porky's)",
+    "year": 1981,
+    "genre": "Comedia",
+    "director": "Bob Clark",
+    "homeRecorded": true
+  },
+  {
+    "id": "908",
+    "title": "Qué me pasa, doctor? - (What's up, doc?)",
+    "year": 1972,
+    "genre": "Comedia",
+    "director": "Peter Bogdanovich",
+    "homeRecorded": true
+  },
+  {
+    "id": "909",
+    "title": "Qué tal Pussycat? - (What's new, Pussycat?)",
+    "year": 1965,
+    "genre": "Comedia",
+    "director": "Clive Donner",
+    "homeRecorded": true
+  },
+  {
+    "id": "910",
+    "title": "Quiz Show (El dilema) - (Quiz Show)",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Robert Redford",
+    "homeRecorded": true
+  },
+  {
+    "id": "911",
+    "title": "Reposeída - (Repossessed)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Bob Logan",
+    "homeRecorded": true
+  },
+  {
+    "id": "912",
+    "title": "Reservoir Dog - (Reservoir Dog)",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Quentin Tarantino",
+    "homeRecorded": true
+  },
+  {
+    "id": "913",
+    "title": "Salvar al perro - (Save the dog!)",
+    "year": 1978,
+    "genre": "Comedia",
+    "director": "Paul Aaron",
+    "homeRecorded": true
+  },
+  {
+    "id": "914",
+    "title": "Sepultado vivo - (Buried alive)",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "homeRecorded": true
+  },
+  {
+    "id": "915",
+    "title": "Sexo, mentiras y cintas de vídeo - (Sex,lies and videotapes)",
+    "year": 1989,
+    "genre": "Drama",
+    "director": "Steven Soderbergh",
+    "homeRecorded": true
+  },
+  {
+    "id": "916",
+    "title": "Sillas de montar calientes - (Blazing saddles)",
+    "year": 1974,
+    "genre": "Comedia",
+    "director": "Mel Brooks",
+    "homeRecorded": true
+  },
+  {
+    "id": "917",
+    "title": "Sister act 2:De vuelta al convento-(Sister act 2:Back to the Habbit)",
+    "year": 1993,
+    "genre": "Comedia",
+    "director": "Bill Duke",
+    "homeRecorded": true
+  },
+  {
+    "id": "918",
+    "title": "Splash II - (Splash Too)",
+    "year": 1988,
+    "genre": "Comedia",
+    "director": "Greg Antonacci",
+    "homeRecorded": true
+  },
+  {
+    "id": "919",
+    "title": "Su distinguida señoría - (The distingished gentleman)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Jonathan Lynn",
+    "homeRecorded": true
+  },
+  {
+    "id": "920",
+    "title": "Terrorífica luna de miel - (Haunted honeymoon)",
+    "year": 1986,
+    "genre": "Comedia",
+    "director": "Gene Wilder",
+    "homeRecorded": true
+  },
+  {
+    "id": "921",
+    "title": "Tira a mamá del tren - (Throw Momma fron the train)",
+    "year": 1987,
+    "genre": "Comedia",
+    "director": "Danny DeVito",
+    "homeRecorded": true
+  },
+  {
+    "id": "922",
+    "title": "Toma el dinero y corre - (Take the money and run)",
+    "year": 1970,
+    "genre": "Comedia",
+    "director": "Woody Allen",
+    "homeRecorded": true
+  },
+  {
+    "id": "923",
+    "title": "Tras la pista de la Pantera Rosa-(Trail of the Pink Panther)",
+    "year": 1982,
+    "genre": "Comedia",
+    "director": "Blake Edwards",
+    "homeRecorded": true
+  },
+  {
+    "id": "924",
+    "title": "Tres hombres y una pequeña dama-(Three men and a little lady)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Emile Ardolino",
+    "homeRecorded": true
+  },
+  {
+    "id": "925",
+    "title": "Tú a Boston y yo a California - (The parent Trap)",
+    "year": 1961,
+    "genre": "Comedia",
+    "director": "David Swift",
+    "homeRecorded": true
+  },
+  {
+    "id": "926",
+    "title": "Un dìa de furia - (Falling Down)",
+    "year": 1993,
+    "genre": "Thriller",
+    "director": "Joel Schumacher",
+    "homeRecorded": true
+  },
+  {
+    "id": "927",
+    "title": "Un ejecutivo muy mono - (The Barefoot executive)",
+    "year": 1970,
+    "genre": "Comedia",
+    "director": "Robert Butler",
+    "homeRecorded": true
+  },
+  {
+    "id": "928",
+    "title": "Una pandilla de lunáticos - (The Dream Team)",
+    "year": 1989,
+    "genre": "Comedia",
+    "director": "Howard Zieff",
+    "homeRecorded": true
+  },
+  {
+    "id": "929",
+    "title": "Una rubia entre dos mundos - (Cool world)",
+    "year": 1992,
+    "genre": "Comedia",
+    "director": "Ralph Bakhsi",
+    "homeRecorded": true
+  },
+  {
+    "id": "930",
+    "title": "Vida y amores de una diablesa - (She devil)",
+    "year": 1990,
+    "genre": "Comedia",
+    "director": "Susan Seidelman",
+    "homeRecorded": true
+  },
+  {
+    "id": "931",
+    "title": "Warlock el Brujo - (Warlock)",
+    "year": 1988,
+    "genre": "Terror",
+    "director": "Steve Miner",
+    "homeRecorded": true
+  },
+  {
+    "id": "932",
+    "title": "Yo, tú y mamá - (Only the lonely)",
+    "year": 1991,
+    "genre": "Comedia",
+    "director": "Chris Columbus",
+    "homeRecorded": true
+  }
+]

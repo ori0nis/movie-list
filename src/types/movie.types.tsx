@@ -1,7 +1,11 @@
-export type Movie = {
-  id: number;
+export interface Movie {
+  id: string;
   title: string;
+  year: number;
+  genre: string;
   director: string;
-  year: string;
-  genres: string[];
-};
+  homeRecorded: boolean;
+}
+
+export type MovieResponse = Movie[] | undefined;
+export type MovieKeys = keyof Movie;
