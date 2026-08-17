@@ -1,8 +1,9 @@
-import { useEffect, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import { fetcher } from "../utils/fetcher"
 import type { Movie, MovieResponse } from "../types/movie.types";
-import { Box } from "@mui/material";
+import { Box, Button, Typography } from "@mui/material";
 import { Movies } from "./Movies";
+import { SearchBar } from "./SearchBar";
 
 const MOVIES_PER_PAGE = 20;
 
@@ -11,6 +12,11 @@ export const MovieTable = () => {
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<string>("");
   const [page, setPage] = useState<number>(0);
+
+  const offset = page * MOVIES_PER_PAGE;
+  const MAX_PAGE = Math.ceil(movies.length / MOVIES_PER_PAGE) - 1;
+  const isFirstPage = page === 0;
+  const isLastPage = page === MAX_PAGE;
 
   useEffect(() => {
     const getData = async (): Promise<MovieResponse> => {
@@ -35,9 +41,33 @@ export const MovieTable = () => {
     getData();
   }, []);
 
+  const visiblePage = useMemo(() => {
+    return movies.slice(offset, offset + MOVIES_PER_PAGE)
+  }, [movies, offset])
+
+  const handleForward = () => {
+    if (isLastPage) return;
+
+    setPage((prev) => prev + 1);
+  }
+
+  const handleBack = () => {
+    if(isFirstPage) return;
+
+    setPage((prev) => prev - 1);
+  };
+
   return (
     <Box>
-      <Movies movies={movies} isLoading={loading} isError={error} />
+      <SearchBar movies={movies} setMovies={setMovies}/>
+      <Movies movies={visiblePage} isLoading={loading} isError={error} />
+      <Button onClick={handleBack} disabled={isFirstPage}>
+        Anterior
+      </Button>
+      <Button onClick={handleForward} disabled={isLastPage}>
+        Siguiente
+      </Button>
+      <Typography>{`Página ${page + 1} de ${MAX_PAGE}`}</Typography>
     </Box>
   );
 }

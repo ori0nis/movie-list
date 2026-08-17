@@ -11,28 +11,28 @@ export const Movies = ({movies, isLoading, isError}: Props) => {
     return (
       <Box>
         {movies.map((movie) => {
-  const isHomeRecorded = movie.homeRecorded;
+          const isHomeRecorded = movie.homeRecorded;
 
-  return !isHomeRecorded ? (
-    <Box key={movie.id}>
-      <Typography>{movie.title}</Typography>
-      <Typography>{movie.director}</Typography>
-      <Typography>{movie.year}</Typography>
-      <Typography>{movie.genre}</Typography>
-    </Box>
-  ) : (
-    <Box key={movie.id}>
-      <Typography>H {movie.title}</Typography>
-      <Typography>{movie.director}</Typography>
-      <Typography>{movie.year}</Typography>
-      <Typography>{movie.genre}</Typography>
-    </Box>
-  );
+          return !isHomeRecorded ? (
+            <Box key={movie.id}>
+              <Typography>{movie.title}</Typography>
+              <Typography>{movie.director}</Typography>
+              <Typography>{movie.year}</Typography>
+              <Typography>{movie.genre}</Typography>
+            </Box>
+          ) : (
+            <Box key={movie.id}>
+              <Typography>H {movie.title}</Typography>
+              <Typography>{movie.director}</Typography>
+              <Typography>{movie.year}</Typography>
+              <Typography>{movie.genre}</Typography>
+            </Box>
+          );
 })}
 
-        {isLoading && <Typography>{isLoading}</Typography>}
+        {isLoading && <Typography>Cargando películas...</Typography>}
 
-        {isError && <Typography>{isError}</Typography>}
+        {isError && <Typography>Error al cargar las películas</Typography>}
       </Box>
     );
 }
