@@ -1,7 +1,11 @@
 import { MovieTable } from "./components/MovieTable";
 
 function App() {
-    return <MovieTable />
+  return (
+    <main className="app-shell">
+      <MovieTable />
+    </main>
+  );
 }
 
 export default App;
