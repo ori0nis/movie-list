@@ -4,35 +4,30 @@ import SortByAlphaIcon from "@mui/icons-material/SortByAlpha";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import CalendarTodayIcon from "@mui/icons-material/CalendarToday";
-import SearchIcon from "@mui/icons-material/Search";
-import { type Dispatch, type SetStateAction } from "react";
+/* import SearchIcon from "@mui/icons-material/Search"; */
+import { byAscendingTitle, byAscendingYear, byDescendingTitle, byDescendingYear } from "../utils/movieSorter";
 
 interface Props {
   movies: Movie[];
-  setMovies: Dispatch<SetStateAction<Movie[]>>
+  setMovies: (movies: Movie[]) => void;
 }
 
 export const SearchBar = ({ movies, setMovies }: Props) => {
-    const byDescendingTitle = [...movies].sort((movieA, movieB) => movieB.title.localeCompare(movieA.title));
-    const byAscendingTitle = [...movies].sort((movieA, movieB) => movieA.title.localeCompare(movieB.title));
-    const byDescendingYear = [...movies].sort((movieA, movieB) => movieB.year - movieA.year);
-    const byAscendingYear = [...movies].sort((movieA, movieB) => movieA.year - movieB.year);
-
   const handleDescendingTitle = () => {
-    setMovies(byDescendingTitle)
+    setMovies(byDescendingTitle(movies));
   };
 
   const handleAscendingTitle = () => {
-    setMovies(byAscendingTitle);
+    setMovies(byAscendingTitle(movies));
   };
 
   const handleDescendingYear = () => {
-    setMovies(byDescendingYear);
+    setMovies(byDescendingYear(movies));
   };
 
   const handleAscendingYear = () => {
-    setMovies(byAscendingYear)
-  }; 
+    setMovies(byAscendingYear(movies));
+  };
 
   return (
     <Box>

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react"
-import { fetcher } from "../utils/fetcher"
+import { getMovies } from "../service/movies.service";
 import type { Movie, MovieResponse } from "../types/movie.types";
 import { Box, Button, Typography } from "@mui/material";
 import { Movies } from "./Movies";
@@ -22,7 +22,7 @@ export const MovieTable = () => {
     const getData = async (): Promise<MovieResponse> => {
       try {
         setLoading(true);
-        const data = await fetcher();
+        const data = await getMovies();
 
         if (data) {
           setLoading(false);
@@ -57,9 +57,13 @@ export const MovieTable = () => {
     setPage((prev) => prev - 1);
   };
 
+  const handleSetMovies = (movies: Movie[]) => {
+    setMovies(movies)
+  }
+
   return (
     <Box>
-      <SearchBar movies={movies} setMovies={setMovies}/>
+      <SearchBar movies={movies} setMovies={handleSetMovies}/>
       <Movies movies={visiblePage} isLoading={loading} isError={error} />
       <Button onClick={handleBack} disabled={isFirstPage}>
         Anterior
